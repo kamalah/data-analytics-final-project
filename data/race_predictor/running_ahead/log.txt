@@ -1,0 +1,624 @@
+Date	TimeOfDay	Type	SubType	Distance	DistanceUnit	Duration	Weight	WeightUnit	RestHR	AvgHR	MaxHR	Sleep	Calories	Quality	Effort	Weather	Temperature	TempUnit	Notes	Course	CourseSurface	CourseNotes	ShoeMake	ShoeModel	Size	System	ShoeSerial	ShoePrice	OverallPlace	FieldSize	GroupMinAge	GroupMaxAge	GroupPlace	GroupSize	GenderPlace	GenderSize	
+2005-10-01	8:00 AM	Run	Race	3.10	Mile	0:23:53	108.0	lb												Houston Race for the Cure			ASICS	GT-2130	10.00	US/Canada		92.55	255	1480	20	24	9	76		
+2007-09-23	3:30 AM	Bike	Easy	10.20	Mile	1:00:00	102.0	lb						5	6	Sunny	87	F		Tom Bass Park, Out and Back	Asphalt															
+2007-09-23	4:00 PM	Run	Easy	2.16	Mile	0:25:00	105.0	lb						5	6		87	F		Tom Bass Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-09-30	10:30 AM	Run	Easy	3.87	Mile	0:33:22								7	6	Overcast	83	F		LOEE Loop	Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-03	4:00 PM	Spinning	Default	4.00	Mile	0:20:00								6	5																					
+2007-10-03	4:30 PM	Weights	0																																	
+2007-10-06	8:15 AM	Run	Race	5.00	Kilometer	0:23:50	105.0	lb						7	7	Rain,PartlyCloudy	80	F		Houston Race for the Cure			ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-08	5:30 AM	Elliptical	Default	4.00	Mile	0:40:00								7	6																					
+2007-10-09	4:00 PM	Spinning	Default	3.56	Mile	0:20:00	106.0	lb						7	6																					
+2007-10-09	4:00 PM	Weights	0				106.0	lb						6	6																					
+2007-10-12	7:00 AM	Run	Easy	3.37	Mile	0:33:06								6	6	Sunny	65	F		Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-15	5:30 AM	Run	Interval	3.50	Mile	0:23:30								7	7	Humid,PartlyCloudy	80	F		Southwyck Golf Course	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-17	4:00 PM	Elliptical	Default	2.00	Mile	0:20:00	105.0	lb						6	5																					
+2007-10-17	4:30 PM	Weights	0											6	5																					
+2007-10-20	9:00 AM	Run	Easy	4.30	Mile	0:37:52								6	6	Sunny	70	F		South Creek/Southfork Loop	Concrete, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-22	5:30 AM	Run	Interval	5000.00	Meter	0:20:39								7	7	Sunny	70	F		Southwyck Golf Course	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-27	8:00 AM	Run	Race	5.00	Kilometer	0:23:30	103.0	lb						7	5	Sunny	65	F	http://www.doitsports.com/newresults3/client/91232_217596_2007.html	Great Pumpkin Fun Run	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00	100	625	20	24	2	22		
+2007-10-29	5:30 AM	Run	Tempo	3.50	Mile	0:40:00											60	F		Southwyck Golf Course	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-10-31	3:30 PM	Elliptical	Default	4.00	Mile	0:20:00								7	5																					
+2007-11-09	5:30 AM	Run	Interval	5.00	Mile	0:45:00								7	6	Humid,PartlyCloudy	70	F		Southwyck Golf Course	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-11-10	8:00 AM	Run	Easy	2.49	Mile	0:20:56								7	6	Sunny,Humid	70	F		Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-11-16	6:40 AM	Run	Easy	3.37	Mile	0:31:49								7	4	Sunny	40	F		Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-11-22	8:00 AM	Run	Race	5.00	Kilometer	0:23:17								7	7	Sunny	60	F		Centreville Turkey Trot	Asphalt	http://www.runwashington.com/other/varunturkeytrotmap.html	ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00			20	24	17	148	67	1257
+2007-11-27	1:00 PM	Weights	0				105.0	lb						7	7																					
+2007-11-29	3:00 PM	Weights	0																																	
+2007-12-03	5:30 AM	Run	Tempo	4.03	Mile	0:32:00								7	6	Sunny	50	F		SLAC Southfork Loop	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-08	9:15 AM	Run	Easy	3.37	Mile	0:32:29								7	7	Sunny	80	F	knee pain	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-10	5:30 AM	Run	Tempo	5.13	Mile	0:39:55								8	8	Sunny,Humid	75	F		Morgan Southfork Loop (SLAC)	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-11	2:00 PM	Weights	0																power yoga tape 1 hr																	
+2007-12-11	8:30 PM	Run	Easy	6.00	Mile	0:48:28								7	6	Humid	75	F	night run with beth.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-13	2:00 PM	Weights	0																power yoga																	
+2007-12-14	7:00 PM	Run	Easy	6.00	Mile	0:49:16								7	6					Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-18	2:00 PM	Weights	0																																	
+2007-12-19	5:15 AM	Run	Tempo	4.00	Mile	0:30:07								7	7	PartlyCloudy	65	F	comfortably hard :-p	SLAC Silverlake Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-19	7:15 PM	Run	Easy	3.00	Mile	0:24:47								7	3	Humid	75	F		Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2007-12-20	2:00 PM	Weights	0																																	
+2008-01-06	10:00 AM	Run	Easy	3.87	Mile	0:34:30	103.0	lb		183	220			7	3	Sunny	72	F	getting over cold.	LOEE Loop	Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-07	5:30 AM	Run	Tempo	5.78	Mile	0:43:05								7	7	Sunny,Windy	70	F		Silverlake Loop (SLAC)	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-09	7:30 PM	Rock Climbing	Default	0.00		2:00:00	103.0	lb											2 hours at Texas Rock Gym																	
+2008-01-10	3:00 PM	Yoga	Default																30 minutes																	
+2008-01-12	10:30 AM	Run	Easy	4.30	Mile	0:36:26	103.0	lb	80	190	220			7	5	Sunny	66	F	nice easy run. the weather was perfect.  even caught some girl scouts selling cookies :-)	South Creek/Southfork Loop	Concrete, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-13	3:15 PM	Run	Easy	3.37	Mile	0:26:09	103.0	lb						7	6	Sunny	66	F	rockin out to *the streets*.  saw some horses.  knee popped in the first 2 minutes but didn't hurt for the rest of the run.  pace felt pretty good considering all of the drinking last night.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-14	3:30 PM	Run	Easy	4.06	Mile	0:35:00	103.0	lb						7	5				left knee bothered me a little.  same one that popped yesterday.  otherwise felt pretty good.	SRC Gym	Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-15	1:00 PM	Yoga	Default	0.00		0:45:00	103.0	lb											45 minutes of power yoga																	
+2008-01-16	6:00 PM	Run	Easy	8.70	Mile	1:09:47	103.0	lb						7	6		57	F	this time the right knee was bothering me a little.  tightened up after the run. should have stretched and ice, instead played pool and had a couple of beers.  also there was an annoying guy who stayed a little behind and off to me left for most of the last loop, i hate playing rabbit for someone.  one last "seemed like a good idea at the time" should not have had sushi and gelato before run.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-17	3:00 PM	Yoga	Default	0.00		0:30:00	103.0	lb																												
+2008-01-20	2:45 PM	Run	Easy	3.45	Mile	0:30:54	103.0	lb						5	6		53	F	legs felt really heavy.  ankles hurt for the first mile and knees hurt for the last mile... hmmm maybe I am getting old.	Northfork Out and Back	Asphalt, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-24	3:00 PM	Yoga	Default	0.00		0:35:00	103.0	lb																												
+2008-01-26	12:00 PM	Run	Easy	5.85	Mile	0:52:20	103.0	lb						7	5	Sunny	51	F		Northfork/Southfork Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-27		Run	Easy	2.49	Mile	0:21:40	103.0	lb						6	3	Sunny	48	F	felt pretty good. did the loop backwards.	Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-28	2:00 PM	Run	Easy	3.66	Mile	0:30:00	103.0	lb						6	6				right knee hurt a little.  did a 5-4-3-2-1 followed by 15 minutes of cool down. and light lifting.	SRC Gym	Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-01-31	5:30 AM	Run	Easy	10.68	Mile	1:32:32	103.0	lb						7	5	Sunny,Humid	60	F	route needs some work. the part on 518 was impossible to run. slight knee pain but felt pretty good throughout.	10 MILES	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-02	9:00 AM	Run	Race	6.00	Kilometer	0:27:20	103.0	lb						6	6	Sunny	72	F	http://results.active.com/pages/displayNonGru.jsp?rsID=59214&orgID=234636&pubID=2<br>http://results.active.com/pages/displayNonGru.jsp?rsID=59215&orgID=234636&pubID=2	Buffalo Wallow 6K	Concrete, Treadmill		ASICS	Hyper-Rocketgirl XCS	9.50	US/Canada		50.00	32	56	20	24	1	1	5	18
+2008-02-04	5:30 AM	Elliptical	Default	2.50	Mile	0:30:00	103.0	lb						6	5																					
+2008-02-05	2:30 PM	Spinning	Default	5.00	Mile	0:25:30	103.0	lb						6	5					SRC Gym	Grass															
+2008-02-06	5:30 AM	Run	Easy	4.00	Mile	0:31:57	103.0	lb						7	5	Windy	48	F	kind of cold.  did the loop backwards.  	SLAC Silverlake Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-06	7:45 PM	Rock Climbing	Default	0.00		1:00:00	103.0	lb																												
+2008-02-09	2:20 PM	Run	Race	4600.00	Meter	0:18:49	103.0	lb						7	6	Sunny	70	F	the air was super dry.  the 1600 was not very much fun.  the 3k was a lot easier.	Caltech Track			ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-10	6:00 AM	Run	Easy	12.18	Mile	1:49:36	103.0	lb						6	4	Sunny	41	F	both knees started hurting.  the run was beautiful.	PASADENA 12 MILER	Asphalt, Concrete, Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-11	5:30 AM	Run	Easy	4.00	Mile	0:31:26	103.0	lb						7	3	Sunny,Humid	60	F	really tight throughout the run.  should stretch really good tonight.	SLAC Silverlake Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-13	6:30 PM	Run	Easy	6.00	Mile	0:46:36	103.0	lb									50	F	kind of cold.  felt pretty good.  shoes were tied tight enough during first lap.  left bottom of foot tightened up.  knees sore afterwards.  once again beer at front porch instead of icing ;-)	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-14	1:00 PM	Yoga	Default	0.00		0:35:00	103.0	lb																												
+2008-02-16	9:00 AM	Run	Easy	3.45	Mile	0:29:18	103.0	lb									68	F	nice easy pre-race 	Northfork Out and Back	Asphalt, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-17	7:00 AM	Run	Race	13.10	Mile	1:42:51	103.0	lb						7	7		45	F	uhmmm... austin is very hilly.  overall felt pretty good.  last two miles were killer.<br><br>http://www.runpix.biz/aus08/21/finord.php?LastNameEM=17431 	Austin Half Marathon	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00	498	6034	20	24	16	398	113	3513
+2008-02-19	5:30 PM	Run	Easy	3.00	Mile	0:24:00	103.0	lb								Sunny	60	F	easy run with jackie, after "burying" her car.	Rice	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-02-24	6:30 AM	Run	Easy	3.00	Mile	0:27:00	103.0	lb											colorado gym	SRC Gym	Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-03-01	9:00 AM	Run	Easy	6.78	Mile	1:09:28	103.0	lb								Sunny,Humid	70	F	chinqapin/triple c trail	Huntsville State Park	Track	http://www.tpwd.state.tx.us/publications/pwdpubs/media/park_maps/pwd_mp_p4505_044d.pdf	ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-03-03	5:30 AM	Run	Easy	6.16	Mile	0:50:23	103.0	lb						5	5	Sunny,Windy,Humid	70	F	uhmmm... saturday was crappy, today was crappy.  legs felt like crap.  somewhat dehydrated still from awesome birthday party.	SLAC 6 Miler	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-03-09	8:30 AM	Run	Easy	16.14	Mile	2:25:41	103.0	lb						6	6	Sunny,Windy	69	F	had some weezer and outcast.  everything hurt by the end.  luna chews suck.	Southwyck	Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		109.00								
+2008-03-13	3:00 PM	Elliptical	Default	3.00	Mile	0:30:00	104.0	lb											tried running but arch started huring forced to do elliptical																	
+2008-03-18	3:30 PM	Run	Easy	3.34	Mile	0:30:00	104.0	lb											foot stopped hurting :-)  but i do have new blisters on my toes :-(	SRC Gym	Grass		Nike	Zoom Structure Triax 11+	9.50	US/Canada										
+2008-03-20	3:00 AM	Run	Easy	3.24	Mile	0:30:00	104.0	lb						5	5				no pain, but i was kinda tired and thought i was going to puke :0	SRC Gym	Grass		Nike	Zoom Structure Triax 11+	9.50	US/Canada										
+2008-03-22	8:00 AM	Run	Easy	18.47	Mile	3:00:00	104.0	lb						6	6	Sunny	65	F	ankles really started hurting during rice loop.  stupid pekingese dog caused unwanted break.	Rice to Memorial	Asphalt, Concrete, Track		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-03-24	5:30 AM	Run	Easy	5.16	Mile	0:41:44	104.0	lb						7	7		55	F	right ankle hurt.  run felt pretty good overall...	Silvercreek Loop (SLAC)	Asphalt		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-03-26	5:00 PM	Run	Easy	2.01	Mile	0:20:00	108.0	lb						5	5				ankle still hurts a little, set treadmill grade at 4.5%	SRC Gym	Grass		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-03-26	5:30 PM	Yoga	Default				108.0	lb						6	6				20 minutes of yoga + 2 sets on bench + 2 sets tricep dips																	
+2008-03-30	8:30 AM	Run	Easy	5.20	Mile	0:49:45	108.0	lb						5	5	Overcast	75	F	just wasn't feeling it	Bailey Bridge	Concrete	stop light to stop light	ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-03-31	5:30 AM	Run	Easy	5.16	Mile	0:42:48	108.0	lb						6	6	Overcast,Windy,Humid	73	F		Silvercreek Loop (SLAC)	Asphalt		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-04-01	6:30 PM	Run	Easy	6.00	Mile	0:47:44	108.0	lb								Sunny,Humid	85	F	not too bad, second loop was nauseating, but i picked up the speed.	Memorial Loop	Track		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-04-06	8:30 AM	Run	Easy	20.91	Mile	4:12:58	108.0	lb												uhmmm long	Asphalt, Concrete		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-04-09	6:30 PM	Run	Easy	3.95	Mile	0:32:57	108.0	lb						8	5	Humid	78	F	ran the loop backwards. felt awesome.	LOEE Loop	Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-04-10	5:30 PM	Run	Easy	5.15	Mile	0:42:02	108.0	lb						8	3	Overcast,Rain,Humid	80	F	misty run. felt awesome.	silvercreek/southwyck pkwy	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-04-14	5:30 AM	Run	Easy	4.90	Mile	0:41:28	108.0	lb						7	6		47	F	nice and easy	Southfork/Northfork (SLAC)	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-04-20	10:00 AM	Bike	Easy	7.00	Mile	2:00:00	108.0	lb									70	F																		
+2008-04-27	6:45 AM	Run	Race	26.20	Mile	4:25:51	108.0	lb						7	7	Sunny	60	F	hardest race ever!	Big Sur Marathon	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00	1403	3199	20	24	43	103	451	1322
+2008-05-04	1:20 PM	Bike	Easy	5.00	Mile	1:00:00	108.0	lb									80	F																		
+2008-08-11	7:00 PM	Run	Easy	3.00	Mile	0:24:22	108.0	lb						6	6	Sunny,Humid	93	F	no pain!! woohoo!!!	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-12	3:00 PM	Yoga	Default	0.00		0:30:00	108.0	lb											some power yoga																	
+2008-08-13	3:30 PM	Spinning	Default	6.16	Mile	0:35:00	108.0	lb						6	6				felt pretty good, followed up with leg presses/calf raises/ bench/dips																	
+2008-08-14	6:00 PM	Run	Easy	4.00	Mile	0:32:18	108.0	lb						7	7	Sunny,Humid	95	F	ran with beth before picking up rajiv.  overall a pretty easy workout.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-19	11:00 AM	Run	Easy	3.48	Mile	0:33:55	108.0	lb						7	7	Humid,PartlyCloudy	85	F	light mist.  ran with beth.  apparently this is "crack alley" and we won't run there again.	work loop 1	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-20	5:00 PM	Run	Easy	4.30	Mile	0:39:44	108.0	lb						5	5	Sunny,Humid	80	F	wet day but not raining. right shin was pretty tight during most of the run.  first mile was 8:30 so i must have really slowed down.  boys are stressing me out.	South Creek/Southfork Loop	Concrete, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-23	8:30 AM	Run	Easy	6.00	Mile	0:51:05	108.0	lb						5	5	Sunny,Humid	80	F	so my right knee hurt a smidgen.  also this was after pub gold hence the slow times.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-25	6:30 PM	Run	Easy	3.87	Mile	0:31:34	108.0	lb						6	7	Sunny,Humid	91	F	25:21 to southfork<br>2:26 rest and stretch<br>6:13 back in<br><br>felt pretty good overall.  no pain.  felt kinda shitty approaching southfork.  felt like superman back in.  hit morgan in 8:06.<br><br>	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-26	6:35 AM	Run	Easy	4.30	Mile	0:35:06	108.0	lb						6	6	Sunny,Humid	84	F	27:47 to morgan<br>1:29 rest<br>7:18 back in<br><br>ran it backwards.  got a little emotional on the first bit.  stupid boys. tried to push back a little.  there was a nice breeze, for most of it. cooled down with a quickie walk with feo.	South Creek/Southfork Loop	Concrete, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-08-27		Yoga	Default	0.00		0:45:00	108.0	lb											almost face planted.  walked feo in the evening.																	
+2008-09-02	7:00 PM	Run	Easy	3.37	Mile	0:45:00	108.0	lb						6	6	Sunny,Humid	90	F	walked a lot of it with feo.  she can be so moody and slow.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-03	6:00 PM	Run	Easy	3.40	Mile	0:30:00	108.0	lb						6	6				eh, got the run in. was wearing my bike shoes on left foot	SLAC Treadmill	Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-03	6:00 PM	Mountain Bike	Default	3.36	Mile	0:20:00	108.0	lb						6	6	Sunny,Humid	89	F	took it easy both ways	SLAC out and back	Asphalt															
+2008-09-03	7:30 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb								Sunny,Humid	85	F		Morgan Loop	Asphalt															
+2008-09-04	8:00 PM	Run	Easy	1.56	Mile	0:15:00	108.0	lb						6	2	Sunny,Humid	85	F	8 minutes out<br>7:22 in	Southfork Church, Out and Back	Concrete		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-09-04	8:00 PM	Run	Easy	5.67	Mile	1:00:00	108.0	lb						6	1	Humid	80	F	nice easy run with Dona.  Might have to push her a little harder next time.	Dona's 6 Miler	Asphalt, Concrete, Treadmill		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-09-05	8:15 PM	Feo Walking	Default	1.21	Mile	0:24:00	108.0	lb									83	F	quickie walk after talking to vero.	Morgan Loop	Asphalt															
+2008-09-06	5:45 AM	Run	Easy	12.12	Mile	1:44:22	108.0	lb						7	7	Sunny	65	F	glorious run of fun.  there slight ankle pain and my right knee hurt a little.  houston almost looked like a running city.  ran with dd, dona, and maria.	Memorial 12 miler	Asphalt, Concrete	W Memorial Loop Around<br>R on Memorial to Woodway Dr.<br>L on W Loop S<br>L Post Oak<br>L S. Post Oak (T intersection)<br>R Briar Hollow Ln<br>L S. Briar Hollow Ln<br>R E. Briar Hollow Ln<br>L. San Felipe<br>L. Willowick<br>L W Lane (up one block), turns into Iverness<br>L Willowick<br>L Inwood<br>L Chilton<br>L Denman<br>R Kirby (to Allen Pkwy)<br>L Waugh<br>(stay around park)<br>R Jackson Hill<br>L Scotland<br>R Snover<br>L Feagan<br>R Roy<br>L Blossom<br>L Cowen (follow loop around)<br>L Blossom<br>L Crestwood<br>R Memorial<br>R Memorial Loop<br><br><br><br><br><br>	ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-09-07	7:30 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb						6	6	Sunny	83	F		Morgan Loop	Asphalt															
+2008-09-08	6:45 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb						6	1					Morgan Loop	Asphalt															
+2008-09-09	4:00 PM	Elliptical	Default	6.00	Mile	1:00:00	108.0	lb						6	6																					
+2008-09-09	7:45 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb						6	6					Morgan Loop	Asphalt															
+2008-09-10	6:00 AM	Run	Easy	1.56	Mile	0:16:29	108.0	lb								Sunny,Humid	75	F	8:55 out<br>7:34 back<br><br>eh nice warm up/cool down, super humid 87%	Southfork Church, Out and Back	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-10	6:15 AM	Run	Easy	3.87	Mile	0:35:30	108.0	lb						6	6	Sunny,Humid	75	F	super humid. nice easy run with dona.	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-14	9:00 AM	Run	Easy	6.57	Mile	0:58:35	108.0	lb						3	7	Sunny	80	F	mom biked while i ran.  felt like crap leg-wise.  herndon is much hillier than i remember it being.  my legs were tight for most of the run.  the weather felt cooler than texas but i couldn't enjoy it because of the hills.	Herndon Parkway	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-15	7:00 PM	Feo Walking	Default	2.03	Mile	0:45:00	108.0	lb						6	6					Morgan Park	Asphalt, Treadmill															
+2008-09-16	11:30 AM	Run	Easy	5.85	Mile	0:57:24	108.0	lb						3	6	Sunny	80	F	legs felt like lead.  the breeze was nice.  yay for hurricane ike and cold fronts.	Northfork/Southfork Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-17	7:00 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb						6	6		76	F		Morgan Loop	Asphalt															
+2008-09-18	5:20 AM	Run	Easy	1.56	Mile	0:15:24	108.0	lb									70	F	out: 8:16<br>back: 7:08<br><br>easy	Southfork Church, Out and Back	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-18	5:30 AM	Run	Easy	5.75	Mile	0:55:10	108.0	lb						5	5		68	F	temperature was nice.  legs felt better.	Dona's 6 Miler	Asphalt, Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-18	7:00 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb						6	6		76	F		Morgan Loop	Asphalt															
+2008-09-20	5:45 PM	Feo Walking	Default	2.49	Mile	1:00:00	108.0	lb									80	F	lots of freaking bug bites	Southfork Loop	Asphalt															
+2008-09-23	6:00 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb												Morgan Loop	Asphalt															
+2008-09-23	7:00 PM	Run	Easy	6.11	Mile	0:50:39	108.0	lb						6	6		75	F	felt really good.  stopped by joanns on the way back	new orleans- drury inn	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-09-24	7:15 PM	Yoga	Default	0.00		1:00:00	108.0	lb											enya and norah jones.  left knee's a little weird.																	
+2008-09-25		Feo Walking	Default	1.21	Mile	0:35:00	108.0	lb												Morgan Loop	Asphalt															
+2008-09-27	5:30 AM	Run	Easy	13.21	Mile	2:09:20	108.0	lb						7	6		75	F	left knee really hurt.  damnit.	Memorial 13	Asphalt, Concrete		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-09-28	8:00 AM	Mountain Bike	Default	8.16	Mile	1:30:00	108.0	lb						6	6		65	F	feo's having an allergic reaction. :( but bike was cool	Terry Hershey Park	Track															
+2008-09-30	6:10 PM	Run	Easy	3.19	Mile	0:25:27	108.0	lb						6	6		85	F	felt pretty good, no pain. followed it up with st. arnold's octoberfest and young's double chocolate float.	Gingerman Run	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-01	7:15 PM	Yoga	Default	0.00		1:00:00	108.0	lb											fun fun fun																	
+2008-10-04	6:00 PM	Run	Interval	3.00	Mile	0:23:01	108.0	lb						6	7		83	F	good run.  sore from HUET.  did a 4-3-2-1.  8 minute warm up, 5 minute cool down.	Memorial Loop	Track		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-10-05	10:00 AM	Run	Easy	4.22	Mile	0:43:56	108.0	lb						1	3				i felt like crap.  i wanted to cry.  i was supposed to run longer today. god damnit.	i'm dieing			ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-10-05	5:00 PM	Feo Walking	Default	2.03	Mile	1:00:00	108.0	lb												Morgan Park	Asphalt, Treadmill															
+2008-10-06	7:15 PM	Yoga	Default	0.00		1:00:00	108.0	lb																												
+2008-10-07	4:45 AM	Run	Tempo	9.54	Mile	1:20:53	108.0	lb						7	8		76	F	5x5. 2.5 minute recovery.  felt goodish during.  stomach felt like i was holding in from both ends afterward.	runny runny	Asphalt	5x5 2.5 minute rest with warmup	ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-08	7:15 PM	Yoga	Default	0.00		1:00:00	108.0	lb											i almost got the crow																	
+2008-10-10	7:15 PM	Run	Easy	2.49	Mile	0:23:30	108.0	lb						6	3		74	F	super easy run. nice warmup for the skirtchaser.  left knee bothered me a little.	Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-11	5:00 PM	Run	Race	2.93	Mile	0:20:32	108.0	lb						6	6		85	F	felt awesome. finished really well. a little pain during stretching. none during run. actual race distance was 2.93 miles so the pace is a little off..	Skirt Chasers 5K	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-12	8:00 AM	Run	Easy	9.17	Mile	1:25:15	108.0	lb						6	6		75	F	easy run with beth in austin, no pain.	abbey's house	Asphalt		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-10-13	6:15 PM	Run	Easy	3.19	Mile	0:26:15	108.0	lb						6	6		80	F	uhmm.  legs felt tight.  just went kinda slow.	Gingerman Run	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-15	7:00 AM	Run	Easy	6.00	Mile	1:00:00	108.0	lb						6	6	Sunny	65	F	awaesome trail run with no pain.	jpl	Asphalt, Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-18	9:00 AM	Run	Easy	2.80	Mile	0:45:00	108.0	lb						6	3	Sunny	70	F	wakling with aunt reeta on a gourgeous day.	runyun canyon	Track	http://www.lamountains.com/parks.asp?parkid=122	ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-21	5:00 AM	Run	Interval	7.88	Mile	0:59:00	108.0	lb						6	8		65	F	ran with with kristin.  the last couple of intervals were killer.	2.5x5x1.5			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-23	6:00 PM	Run	Easy	2.49	Mile	0:25:00	108.0	lb						6	6		70	F	easy run with feo	Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-24	11:00 AM	Run	Easy	3.63	Mile	0:29:50	108.0	lb						6	6	Sunny	75	F	nice mid-day run with beth. only bad part is the dogs	Rosharon Run	Asphalt	beware of dogs	ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-25	8:00 AM	Run	Race	5.00	Kilometer	0:21:16	108.0	lb						6	6	Sunny	65	F	stupid cape produced a lot of drag.<br>http://www.eztoregister.com/results/Pumpkin08.htm	Great Pumpkin Fun Run	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00	65	937	20	24	1	51	13	515
+2008-10-25	7:00 PM	Feo Walking	Default	1.21	Mile	0:25:00	108.0	lb						6	6				post michigan vs michigan state game walkie-poo	Morgan Loop	Asphalt															
+2008-10-26	10:00 AM	Run	Easy	6.35	Mile	1:04:14	108.0	lb						6	6	Sunny	77	F	it got warmer than i though it would be.  i think i'll wait until later to do the rest of the run.  my right knee hurt a little.	pearland 6 miler	Asphalt, Concrete		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-10-27	7:00 PM	Feo Walking	Default	1.21	Mile	0:30:00	108.0	lb									70	F	crazy dog	Morgan Loop	Asphalt															
+2008-10-28	5:00 AM	Run	Interval	9.33	Mile	1:18:41	108.0	lb						4	8				stomach was not too happy.  right knee was popping.  of course this one was with kristen.	4:15 x 2 x 6	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-10-31		Feo Walking	Default	3.00	Mile	1:00:00	108.0	lb											Happy Halloween	Morgan Park	Asphalt, Treadmill															
+2008-11-01		Feo Walking	Default	1.21	Mile	0:35:00	108.0	lb												Morgan Loop	Asphalt															
+2008-11-01	9:00 AM	Run	Easy	17.59	Mile	3:15:18	108.0	lb						5		Sunny,Humid	65	F	27:51 first loop<br>2:11:29 12 miles loop<br>35:57 second loop<br><br>hips are really tight. no appreciable knee pain.  ankles hurt a little.	18 miles?	Asphalt, Track		ASICS	GT-2130	10.00	US/Canada		92.55								
+2008-11-02		Feo Walking	Default	1.21	Mile	0:35:00	108.0	lb												Morgan Loop	Asphalt															
+2008-11-03	5:30 AM	Run	Interval	7.40	Mile	0:55:00	108.0	lb						7	7	Sunny	55	F	felt pretty good during the entire run.  no pain to speak of.	2:30 x 5 x 1:30	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2008-11-03	5:30 PM	Rock Climbing	Default	0.00		1:00:00	108.0	lb																												
+2008-11-03	7:00 PM	Run	Easy	4.97	Mile	0:50:00	108.0	lb						6	2		70	F	easy night run post climbing with beth.	allen pkwy with beth			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2008-11-05		Yoga	Default	0.00		1:00:00	108.0	lb																												
+2008-11-08	9:30 AM	Run	Easy	10.68	Mile	1:40:34	108.0	lb						6	6				easy hill run... got a little lost but it was fine.	conroe 10 miler	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2008-11-27	8:00 AM	Run	Race	10.00	Kilometer	0:49:05	108.0	lb						6	6	Humid	67	F	7:49<br>7:44<br>7:42<br>7:54<br>8:03<br>8:12<br>1:46<br>http://www.mychiptime.com/display_race.php?eID=3301&show=all&division=10K+Run+F++0-+0&fname=First+Name&lname=Last+Name&sex=any&bib=Bib&chip=Chip&event_city=City&event_state=any&border=0&listtype=small<br><br>i took it really easy..	Houston Turkey Trot	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	360	2204	20	24	9	108	101	1083
+2008-12-03		Yoga	Default	0.00		1:00:00	108.0	lb																												
+2008-12-08	6:00 AM	Run	Easy	5.85	Mile	0:57:06	108.0	lb						4	7	Humid	56	F	eh easy... legs are pretty tight... ran with beth..,	Northfork/Southfork Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2009-01-17		Feo Walking	Default	3.87	Mile	1:00:00	100.0	lb												Northfork Loop	Asphalt, Grass															
+2009-01-18	8:10 AM	Run	Easy	3.87	Mile	0:36:43	100.0	lb						5	5	Sunny	58	F	legs felt tight... was not super fun. no pain nice day for a run.	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-01-22	6:00 PM	Feo Walking	Default	3.37	Mile	0:37:52.60	100.0	lb									70	F		Silvercreek Loop	Concrete															
+2009-02-07	7:00 AM	Run	Easy	9.00	Mile	1:20:06	100.0	lb						7	6	Sunny	65	F	hips were tight... just took it easy	Memorial Loop	Track		ASICS	GT-2130	10.00	US/Canada		92.55								
+2009-02-09	7:15 PM	Yoga	Default	0.00	Mile	1:00:00	100.0	lb																												
+2009-02-11		Yoga	1	0.00	Mile	1:00:00																														
+2009-02-15	7:00 AM	Run	Race	13.10	Mile	1:52:14	100.0	lb						4	6	Overcast,PartlyCloudy	50	F	that was super hard... took an aleve so nothing was hurting. completely fell apart at mile 8.  perhaps i should have run more before the marathon.	Austin Half Marathon	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	1087	6959	20	24	50	507	322	4091
+2009-02-16	6:30 PM	Feo Walking	Default	1.21	Mile	0:30:00	100.0	lb									65	F		Morgan Loop	Asphalt		Unknown	Merrell Radius Boots				125.00								
+2009-02-20	8:00 PM	Feo Walking	Default	1.21	Mile	0:0:00	100.0	lb												Morgan Loop	Asphalt		Unknown	Merrell Radius Boots				125.00								
+2009-02-22	8:00 AM	Mountain Bike	Default	20.00	Mile	5:00:00	100.0	lb						6	8		70	F		Morgan Park	Asphalt, Treadmill															
+2009-02-22	6:00 PM	Feo Walking	Default	1.21	Mile	0:0:00	100.0	lb												Morgan Loop	Asphalt		Unknown	Merrell Radius Boots				125.00								
+2009-02-23	7:30 PM	Feo Walking	Default	1.21	Mile	0:0:00	100.0	lb												Morgan Loop	Asphalt		Unknown	Merrell Radius Boots				125.00								
+2009-05-31	1:00 PM	Run	Easy	6.96	Mile	1:00:00	100.0	lb												santa monica	Asphalt, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-06-24	7:30 PM	Run	Easy	6.50	Mile	0:55:00	100.0	lb								Humid	95	F		brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-06-29	2:00 PM	Run	Easy	6.00	Mile	0:45:00	100.0	lb												santa monica	Asphalt, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-06-30	6:00 PM	Run	Easy	4.00	Mile	0:40:00	100.0	lb												newport *beach*	Trail															
+2009-07-01	7:00 AM	Run	Easy	4.00	Mile	0:40:00	100.0	lb												newport *beach*	Trail															
+2009-07-03	8:00 AM	Run	Easy	5.00	Mile	0:45:00	100.0	lb												strawberry canyon	Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-07-04	8:00 AM	Run	Easy	4.50	Mile	0:40:00	100.0	lb												strawberry canyon	Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-07-15	8:20 PM	Run	Easy	5.00	Mile	0:45:00	100.0	lb												Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-07-18	8:00 AM	Run	Easy	3.24	Mile	0:27:38	100.0	lb								Humid	78	F	9:30/ mile out<br>7:30 mile back<br><br>super humid 80% felt pretty good.  had to go painting afterwards.	cr90 out and back	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-07-23	6:30 PM	Run	Easy	5.85	Mile	0:49:11	100.0	lb								Rain,Humid	77	F	right leg hurt (knee, hip, ankle).  also felt a little nauseated.  but light drizzle was fun to run in.	Northfork/Southfork Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-07-24	7:00 PM	Run	Easy	14.73	Mile	2:51:21	100.0	lb								Humid	93	F	48:40<br>25:08<br>45:43<br>30:50<br><br>2:51:21<br>	Little Woodrows	Concrete		ASICS	GT-2130	10.00	US/Canada		92.55								
+2009-07-25	7:15 AM	Run	Easy	5.00	Mile	0:42:48	100.0	lb								Sunny,Humid	80	F	ran with miguel and eirick. felt like shit.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2009-07-29	5:30 AM	Run	Hill	3.00	Mile	0:25:00	100.0	lb								Humid	85	F	YWCA               30 min   2 Hills   5, 5, 4, 4, 3, 3, 2, 2, 1,1<br>	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-07-31	5:30 AM	Run	Hill	3.00	Mile	0:25:00	100.0	lb								Humid	85	F	Dog Bowl             1 mile Ladder	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-08-03	5:30 AM	Run	Hill	4800.00	Meter	0:18:58	100.0	lb								Humid	85	F	Bat Cave             700 & 500 x 4 	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2009-08-05		Run	Hill	3.00	Mile	0:30:00	100.0	lb								Humid	85	F	Memorial & Shephard           28 min           Long Hills          1's, 2's, 3's<br><br>made it up to 4s	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2009-08-07	11:00 AM	Run	Race	18.80	Mile	2:53:00	100.0	lb						4	9				holy crap running at altitude freaking sucks	Wild West Relay	Asphalt, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	31	139					3	7
+2009-08-12	5:30 AM	Run	Hill	2.00	Mile	0:15:00	100.0	lb								Humid	85	F	YWCA                 2 Mile Time Trial with Hills<br><br>right foot hurt	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2009-08-23		Run	Easy	2.49	Mile	0:25:00	100.0	lb								Sunny,Humid	82	F	the humdity was way too much today...	Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-08-26	7:37 PM	Feo Walking	Default	1.27	Mile	0:24:32.33				115	145									Morgan Loop	Asphalt		Unknown	Merrell Radius Boots				125.00								
+2009-08-29	2:27 PM	Run	Hill	3.93	Mile	0:40:02.72	105.0	lb		186	202					Sunny	100	F		strawberry canyon	Trail															
+2009-09-01	9:20 PM	Feo Walking	Default	1.10	Mile	0:20:46.43														Morgan Park	Asphalt, Treadmill		Unknown	Merrell Radius Boots				125.00								
+2009-09-02	8:18 PM	Feo Walking	Default	1.22	Mile	0:24:03.85														Morgan Loop	Asphalt		Unknown	Merrell Radius Boots				125.00								
+2009-09-07	7:35 AM	Run	Easy	12.00	Mile	1:58:16.80	105.0	lb						5	6	Sunny,Humid	80	F	my left knee started hurting.  was thinking a lot about rajiv.  somewhat fueled by jealousy.  tried to do fartleks in 6-9 but ended being super tired.  Did the first two laps counter clockwise, then one clockwise.  then one out and back 1.5 miles.	Memorial Loop	Track		ASICS	GT-2130	10.00	US/Canada		92.55								
+2009-09-13	6:24 PM	Feo Walking	Default	2.23	Mile	0:45:08.54																	Unknown	Merrell Radius Boots				125.00								
+2009-09-14	5:35 AM	Run	Hill	5.12	Mile	0:52:49.80													left leg hurt a little.  right top of foot also ached.  felt pretty good on both intervals.<br>Mile Repeats with hills - 2 x 1 mile and 3 X 3 hills at Memorial & Shepherd	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2009-09-15	6:33 AM	Run	Easy	4.08	Mile	0:39:13.18										Sunny	74	F		Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-09-16	5:39 AM	Run	Hill	2.47	Mile	0:25:42.74								7	7	Sunny	77	F	2 mile time trial- 14:06<br>took it easy and felt really good.  recovered quickly after running	Will's Hills																
+2009-09-19	8:54 AM	Bike	Hill	6.39	Mile	0:34:06.52										Sunny,Humid	80	F	tried out new shoes. it was actually pretty fun	Silvercreek Loop	Concrete															
+2009-09-20	7:25 AM	Run	Easy	1.05	Mile	0:9:53.12								7	7	Sunny,Overcast,Humid	80	F		Memorial 12 miler	Asphalt, Concrete	W Memorial Loop Around<br>R on Memorial to Woodway Dr.<br>L on W Loop S<br>L Post Oak<br>L S. Post Oak (T intersection)<br>R Briar Hollow Ln<br>L S. Briar Hollow Ln<br>R E. Briar Hollow Ln<br>L. San Felipe<br>L. Willowick<br>L W Lane (up one block), turns into Iverness<br>L Willowick<br>L Inwood<br>L Chilton<br>L Denman<br>R Kirby (to Allen Pkwy)<br>L Waugh<br>(stay around park)<br>R Jackson Hill<br>L Scotland<br>R Snover<br>L Feagan<br>R Roy<br>L Blossom<br>L Cowen (follow loop around)<br>L Blossom<br>L Crestwood<br>R Memorial<br>R Memorial Loop<br><br><br><br><br><br>	ASICS	GT-2130	10.00	US/Canada		92.55								
+2009-09-20	7:36 AM	Run	Easy	14.01	Mile	2:20:50.38								7	7	Sunny,Humid	80	F	two excedrin kept the pain at bay.  but i didn't want to run with leg pain and cramps.  got a hotspot on the top of my right foot.  overall it wasn't too bad	Memorial 12 miler	Asphalt, Concrete	W Memorial Loop Around<br>R on Memorial to Woodway Dr.<br>L on W Loop S<br>L Post Oak<br>L S. Post Oak (T intersection)<br>R Briar Hollow Ln<br>L S. Briar Hollow Ln<br>R E. Briar Hollow Ln<br>L. San Felipe<br>L. Willowick<br>L W Lane (up one block), turns into Iverness<br>L Willowick<br>L Inwood<br>L Chilton<br>L Denman<br>R Kirby (to Allen Pkwy)<br>L Waugh<br>(stay around park)<br>R Jackson Hill<br>L Scotland<br>R Snover<br>L Feagan<br>R Roy<br>L Blossom<br>L Cowen (follow loop around)<br>L Blossom<br>L Crestwood<br>R Memorial<br>R Memorial Loop<br><br><br><br><br><br>	ASICS	GT-2130	10.00	US/Canada		92.55								
+2009-09-23	5:33 AM	Run	Tempo	6.75	Mile	1:03:39.52													5:15 Start Bayou   Tempo Run 5/6 mile -10 per :)<br>went out way too fast and fell off from there.<br><br>right foot still hurts a little.  left leg did not give any problems.	Will's Hills			Salomon	XT Wings				80.00								
+2009-09-25	5:36 AM	Run	Easy	3.02	Mile	0:24:31.32								5	7		80	F	wills hills work out<br>.6 mile warm up<br>1 mile hard<br>2 on 2 off to end<br>followed by swimming<br>right foot still hurts a little.	Memorial Loop	Track															
+2009-09-25	6:00 AM	Swim	Back Stroke	1.00	Kilometer	0:45:00	105.0	lb											felt pretty good did most of it with kickboard and last lap back stroke																	
+2009-09-26	8:48 AM	Run	Long	11.77	Mile	1:49:00.17										Sunny,Humid	80	F	went with jenia it was kind of weird how much motivation i loss.	Town Lake Trail			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2009-09-29	6:10 PM	Bike	Easy	5.82	Mile	0:30:55	105.0	lb								Sunny,Humid	75	F		silvercreek/southwyck pkwy	Asphalt, Concrete															
+2009-09-30	5:37 AM	Run	Hill	5.06	Mile	0:45:44.32										Sunny,Humid	70	F	i felt really good/  It was 14 minutes one directions 12 minutes the other.<br><br>Lucky Cloverleafs - 28 minutes continuous<br><br>Felt pretty good.  I am surprised at how much I slowed down...	Will's Hills																
+2009-10-03	9:36 AM	Bike	Default	6.09	Mile	0:35:58.94														Northfork-Silvercreek Loop	Concrete															
+2009-10-16	7:00 AM	Run	Easy	3.20	Mile	0:30:44	105.0	lb								Sunny,Humid	73	F	left knee and right foot hurt<br>16:29 out<br>1:40 rest<br>14:15 back	cr90 out and back	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-10-18	7:00 AM	Run	Race	26.20	Mile	4:22:01.63	105.0	lb						6	6	Sunny,Overcast	65	F	felt good overall.  took ib every hour.  the hills were more plentiful than i thought. 4:25:51 was net time not chip time. kind of funny how it's exactly the same as big sur.  	Nike Women's Marathon	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	790	3910	25	29	194	939		
+2009-10-25	11:06 AM	Run	Easy	3.20	Mile	0:26:45.41										Sunny,Humid	80	F	ran with "the cool guy".  legs felt a little tired but not bad.	Lululemon			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2009-11-08	8:00 AM	Run	Tempo	8.33	Kilometer	0:42:51	105.0	lb						6	5	Sunny,Humid	70	F	ran as "susan connally." from what i recall it was pretty good.  there was a lot of standing around so it was hard to stay warm.  my right foot was bothering me a little.<br><br>http://www.finishcam.com/%5CEvents%5C2009-Houston-Masters-25k%5CClip2003.wmv	Koala 25k Relay Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-11-26	7:00 AM	Run	Race	5.00	Kilometer	0:31:45	105.0	lb						4	1				ran with mom first 1.75  miles.... it was just for fun :-p<br>11:23 mile 1<br>11:41 mile 2<br>8:41 mile 3.1	Centreville Turkey Trot	Asphalt	http://www.runwashington.com/other/varunturkeytrotmap.html	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00			25	29	129	226	833	1619
+2009-12-18	6:30 PM	Run	Easy	3.48	Mile	0:35:10	105.0	lb								Humid	65	F		Lululemon Holiday Run	Asphalt	Lululemon Holiday Run	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2009-12-19	8:30 AM	Run	Easy	3.87	Mile	0:38:00	105.0	lb						5	3	Sunny	45	F	left knee was bothering me a little bit... took it easy	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2009-12-25	7:30 AM	Run	Easy	2.46	Mile	0:24:18.31										Sunny	45	F	both ankles hurt some.  back of right knee felt like crap.	Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2010-01-03	10:00 AM	Run	Easy	3.84	Mile	0:35:18.01										PartlyCloudy	40	F	right back of knee hurt a little. it was pretty cold	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-01-04	8:08 AM	Bike	Easy	4.11	Mile	0:23:19.03										Overcast,Windy	40	F	It was 10 minutes up at 13 minutes back :-p																	
+2010-01-05	5:00 PM	Run	Easy	1.10	Mile	0:10:00	105.0	lb												SRC Gym	Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-01-05	5:30 PM	Spinning	Default	4.57	Mile	0:20:00	105.0	lb												SRC Gym	Grass															
+2010-01-23	6:05 AM	Run	Hill	10.76	Mile	2:11:14.69	110.0	lb						7	7	Overcast,Humid	70	F	right back of knee and hop gave me some problems. ht rex group is pretty cool.  felt awful towards the end, should have had more sugar and water.	ho chi minh trails			Salomon	XT Wings				80.00								
+2010-01-27	4:00 PM	Run	Hill	5.00	Mile	0:42:49	110.0	lb						6	6	Sunny	65	F	it was fun to run with scott and the guys in pasadena. overall felt awesome.	Lombardy	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-01-29	4:23 PM	Run	Hill	4.25	Mile	0:35:21.12								7	7	Sunny	60	F	Ran with veronica.  With the exception of the tacos not sitting well	Brentwood Country Club			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-01-30	10:17 AM	Run	Long	10.03	Mile	1:41:38.65								7	7	Sunny	60	F	i'm gonnna rock and roll all night and run every day!!!  can't believe i pulled it off it was way harder than i thought.  right hip and knee were kind of annoying.  hip tightened up later in the day. ran with michelle, megumi, susan, stephanie, and some dude.	Patrician :-D	Asphalt, Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-02-02	6:45 PM	Spinning	Default	15.00	Mile	1:00:00	110.0	lb												LA Fitness																
+2010-02-06	12:00 PM	Run	Easy	3.00	Mile	0:0:00	110.0	lb								Overcast	40	F	jog to the bathroom	Huntsville State Park	Track	http://www.tpwd.state.tx.us/publications/pwdpubs/media/park_maps/pwd_mp_p4505_044d.pdf	Salomon	XT Wings				80.00								
+2010-02-13	10:55 AM	Run	Easy	5.78	Mile	0:59:08.03				177	191			5	2	Overcast	43	F	took it super easy no hard breathing no leg fatigue.  right hip tightened up after running.  	Northfork/Southfork Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-02-14	9:45 AM	Run	Easy	6.01	Mile	1:01:27.90	110.0	lb						4	2	Overcast	60	F	took it super easy.  right hip started going a bit nuts around lap 2.  not sure what's going on with the hip.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-02-14	1:00 PM	Spinning	Default	21.00	Mile	1:00:00	110.0	lb						5	5				get the rpms around 90.  had to make up the time because the hip was not happy.	LA Fitness																
+2010-02-15	6:23 PM	Run	Easy	3.48	Mile	0:31:11.81				183	194						47	F	first run with vibram overall it was fun.  a little chafing on the feet.  right hip a little tight.  stuck to the grass for the most part.	Silvercreek Loop	Concrete		Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-02-16	5:45 AM	Spinning	Default	18.00	Mile	0:45:00	110.0	lb												LA Fitness																
+2010-02-18	5:45 AM	Spinning	Default	15.00	Mile	0:30:00	110.0	lb												LA Fitness																
+2010-02-20	10:43 AM	Run	Easy	6.15	Mile	1:02:13.72				178	189			5	5	Overcast,Windy,Humid	67	F	kinda windy, kinda boring, least memorable run ever. did the loop clockwise.	Northfork-Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-02-21	9:15 AM	Spinning	Default	20.00	Mile	1:00:00	110.0	lb		161	179									LA Fitness																
+2010-02-21	11:23 AM	Run	Long	12.00	Mile	1:44:44.72				190	204					Overcast,Humid	70	F	was kinda windy.  mile 8 was kinda hard.  right hip was a little tight.  left knee had a pang. nothing substantial.  considering it was after spin i guess i should be happy.  it would be nice if it were more consistent.  broke up the run into 4 3-milers.  Next time should have longer "intervals"	Memorial 12 miler	Asphalt, Concrete	W Memorial Loop Around<br>R on Memorial to Woodway Dr.<br>L on W Loop S<br>L Post Oak<br>L S. Post Oak (T intersection)<br>R Briar Hollow Ln<br>L S. Briar Hollow Ln<br>R E. Briar Hollow Ln<br>L. San Felipe<br>L. Willowick<br>L W Lane (up one block), turns into Iverness<br>L Willowick<br>L Inwood<br>L Chilton<br>L Denman<br>R Kirby (to Allen Pkwy)<br>L Waugh<br>(stay around park)<br>R Jackson Hill<br>L Scotland<br>R Snover<br>L Feagan<br>R Roy<br>L Blossom<br>L Cowen (follow loop around)<br>L Blossom<br>L Crestwood<br>R Memorial<br>R Memorial Loop<br><br><br><br><br><br>	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-02-22	5:33 AM	Run	Interval	5.65	Mile	0:49:06.03				186	206			5	5	Windy,Humid	50	F	Three 1 Mile Repeats<br>felt pretty good.  probably went much harder than i should have.  	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-02-23	5:45 AM	Spinning	Default	15.00	Mile	0:45:00	110.0	lb		151	173									LA Fitness																
+2010-02-24	5:34 AM	Run	Default	4.56	Mile	0:38:39.25											35	F	Cloverleafs 14 minutes one way, 14 minutes the other way.  forgot to put on heart rate monitor	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-02-25	6:45 PM	Spinning	Default	21.00	Mile	1:00:00														LA Fitness																
+2010-02-26	5:34 AM	Run	Interval	4.19	Mile	0:38:58.45				181	216								relays	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-02-28	6:32 AM	Run	Easy	0.56	Mile	0:7:44.62													Warmup				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-02-28	7:01 AM	Run	Race	13.10	Mile	1:46:08.42											50	F	took it easy.  trying to get ready for los angeles,	New Orleans Mardi Gras Half Marathon	Asphalt, Concrete	The roads in new orleans are kind of shitty.	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	734	9300	25	29	52	1124	203	5933
+2010-02-28	9:02 AM	Run	Easy	1.49	Mile	0:22:33.36													cool down				Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-03-03	5:35 AM	Run	Default	0.87	Mile	0:9:22.78				154	175								warmup	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-03-03	6:00 AM	Run	Default	3.22	Mile	0:30:00				198	204								30 minutes Ws. took it pretty easy. 1-1-1,2-2-2,3-3-3-,1-1-1,1	Will's Hills																
+2010-03-03	6:31 AM	Run	Default	0.71	Mile	0:7:06.87				180	187						45	F	cool down	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-03-04	6:45 PM	Spinning	Default	21.00	Mile	1:00:00	110.0	lb		152	179									LA Fitness																
+2010-03-06	9:57 AM	Bike	Default	10.16	Mile	1:00:10.32											74	F	ride to LA fitness. detoured off of magnolia. too long to run																	
+2010-03-06	10:58 AM	Bike	Default	8.34	Mile	0:50:29.02											74	F	the ride back.  took a little long because i couldn't decide where to go.  fite is probably the best option for running.  the route is still a little long.																	
+2010-03-07	7:55 AM	Run	Easy	4.94	Mile	0:50:22.73													legs felt like crap after riding 18 miles the day before.  ended up just cutting the run short.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-03-13	10:31 AM	Run	Easy	3.87	Mile	0:36:17.61													just took it really easy.	LOEE Loop	Concrete, Treadmill		Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-03-21	10:00 AM	Run	Race	26.20	Mile	4:20:12	108.0	lb									65	F	cramped up a lot. felt like shit after mile 18.  but finished strong the last mile.	LA Marathon			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	4309	22299	25	29	197	1432	1068	9110
+2010-03-27	10:14 AM	Run	Easy	3.29	Mile	0:30:22.52										Sunny,Humid	76	F	took it easy for the first run after the marathon. left bottom of foot hurt. bought foot roller dealy and got called out by the guy at tri on the run.  apparently, i haven't taken it to the next level.	cr90 out and back	Asphalt		Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-04-11	8:09 AM	Run	Tempo	3.26	Mile	0:24:16.56								4	7	Sunny,Humid	70	F	so my left arch hurt during the race and afterwards...	Run for the Rose			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	81	563	20	29	2	89		
+2010-04-25	8:44 AM	Run	Easy	3.85	Mile	0:36:24.62										Sunny,Humid	68	F	took it easy. right knee hurt as soon as i put my shoes on.  post run they are both a little sore.  as of right now ( 15 minutes after) no arch pain.  stayed on the grass.	Northfork Loop	Asphalt, Grass		Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-05-17	7:00 AM	Run	Easy	3.37	Mile	0:31:18	110.0	lb								Sunny,Humid	85	F	took it easy.  nothing hurt afterwards or during.  nice morning run.	Silvercreek Loop	Concrete		Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-05-22	8:59 PM	Run	Race	10.00	Kilometer	1:10:28.54	113.0	lb								Humid	80	F	Sooo...  i gave blood the tuesday before.  i had a freebird burrito on the drive up.  overall the run was pretty miserable. doing a trail race at night was quite possibly the worst idea ever.  no pain to talk about.  also a little sore the last day-ish.<br><br>watch says 6.38 race should have been 6.2<br>http://www.iaapweb.com/results/10/chupa.htm<br><br>44 <tab>Chang,Kamalah <tab>391 <tab>1:11:13.5 <tab>1:10:59.1 <tab>11:25 <br>	El Chupacabra de Houston			Salomon	XT Wings				80.00	155	363	1	99	44	160	44	160
+2010-06-08	6:44 AM	Run	Easy	3.11	Mile	0:30:56.47				183	202					Overcast,Humid	80	F	no pain. heart rate was a little high.  legs and breathing felt okay.	cr90 out and back	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-06-11	6:30 AM	Bike	Default	5.68	Mile	0:32:03.71																	Specialized	2008 Rockhopper Comp				600.00								
+2010-07-31	6:35 PM	Bike	Default	2.96	Mile	0:15:49.65																	Specialized	2008 Rockhopper Comp				600.00								
+2010-08-11	6:42 PM	Bike	Default	6.41	Mile	0:29:21.51										Overcast,Humid	89	F	first real ride.  i didn't fall over :-p	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-08-21	2:00 PM	Run	Easy	2.42	Mile	0:20:06	113.0	lb								Sunny,Humid	95	F	8:37 to valahalla<br>6:54 beer break<br>11:29 to little woodrows	BON Running Club Hot Undies Run	Asphalt, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-08-22	9:52 AM	Bike	Default	6.31	Mile	0:31:34.22										Sunny	85	F	fell off again at the driveway.  at least both sides match now :-p	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-08-27	12:12 PM	Run	Hill	7.20	Mile	1:09:27.50										Overcast,PartlyCloudy	65	F	veronica lied to me and said that we were going on a nice easy run.  she tricked me with cider and beer and then she left me.  if all of my runs were this awful i would not be a runner.  i don't like veronica anymore.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-08-31	5:53 PM	Bike	Default	6.48	Mile	0:30:49.21														Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-09-04	9:18 AM	Bike	Default	6.37	Mile	0:30:30.24														Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-09-06	8:40 AM	Run	Easy	3.85	Mile	0:40:51.67										Humid,PartlyCloudy	80	F	legs felt awful.  that run was soooo not fun i guess i can't even blame the heat because it was not that hot. oh well.  	LOEE Loop	Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-09-07	7:24 AM	Run	Default	3.31	Mile	0:29:58.25										Overcast,Humid	80	F	nice easy run...				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-09-09	6:26 PM	Bike	Default	6.37	Mile	0:28:17.07										Overcast,Humid	86	F	pretty good ride after an awful day...	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-09-11	8:36 AM	Bike	Default	6.38	Mile	0:26:31.04				154	174					Overcast,Humid	80	F	soo biked clockwise again.  inflated tires properly this time and the ride was waaay rougher.  no me gusta.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-09-13	7:30 PM	Yoga	Default	0.00	Mile	1:15:00																														
+2010-09-14	7:15 PM	Run	Easy	3.00	Mile	0:25:24	118.0	lb											10:56 warmup<br>2:16 stretch<br>14:28 home<br><br>sooo... 25:24	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-09-18	8:32 AM	Bike	Default	6.42	Mile	0:25:50										Overcast,Humid	80	F	so, i felt pretty good.  might have to move the pack a little bit, i could see it chafing on long rides.  the weather was actually pretty nice today.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-09-20	7:30 PM	Yoga	Default	0.00	Mile	1:15:00																														
+2010-09-23	5:08 AM	Bike	Default	10.53	Mile	0:46:01.74										Humid	77	F	first ride with farshad.... mile one is off by about .25 miles sooo, i bumped it up.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-09-27	7:30 PM	Yoga	Default	0.00	Mile	1:15:00																														
+2010-10-02	12:38 PM	Bike	Default	4.15	Mile	0:17:59.13										Humid	85	F	short ride because fernando called and the brakes were rubbing.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-10-04	7:30 PM	Yoga	Default	0.00	Mile	1:15:00	118.0	lb											basically did a headstand																	
+2010-10-05	6:30 PM	Run	Easy	3.23	Mile	0:27:00	118.0	lb									75	F	ran with scott payne, felt better than the last one, but not great.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-10-06	5:58 PM	Bike	Default	6.37	Mile	0:25:55.80				158	173						78	F	sun was setting shanked my right foot boo! at least its starting to get cool here.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-10-09	10:17 AM	Run	Easy	4.09	Mile	0:41:54.07	118.0	lb								Sunny	75	F	well, started off on the memorial loop.  then went to the mtb trails.  then tripped and fell and went home.  suck.	Memorial Loop	Track		Vibram	Five Fingers Sprint	40.00	Europe	Black	85.00								
+2010-10-16	2:00 PM	Run	Easy	2.00	Mile	25:00:00	118.0	lb						5	5	Sunny	80	F	Green Dress Run.  Took it easy.  Running felt like crap.	BON Running Club Hot Undies Run	Asphalt, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-10-18	7:15 PM	Yoga	Default	0.00	Mile	1:15:00																														
+2010-10-23	7:01 AM	Run	Race	9.96	Mile	1:50:20.23	118.0	lb						5	5	Overcast,Rain	65	F	took it easy and enjoyed the view... i know it wasn't going to be an impressive race :-p<br><br>veronica, had an awesome race though!<br><br>http://results.active.com/pages/displayNonGru.jsp?pubID=3&rsID=102088	Huntington Beach Distance Derby			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	293	334	26	29	18	19	126	157
+2010-11-25	7:00 AM	Run	Race	5.00	Kilometer	0:28:16.97	118.0	lb						6	6	Overcast	42	F	meh, went out i know i am out of shape.  it was kind of drizzly.  got mom and rashida to run!!<br>http://results.active.com/pages/displayNonGru.jsp?pubID=3&rsID=103935	Centreville Turkey Trot	Asphalt	http://www.runwashington.com/other/varunturkeytrotmap.html	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	1218	3294	20	29	127	450	404	1686
+2010-12-15	7:00 PM	Run	Easy	3.23	Mile	0:30:00	118.0	lb									65	F	ran with scott payne.  had an awesome veggie delite before running.  so i took it easy	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-12-18	10:26 AM	Bike	Default	6.20	Mile	0:20:03.17														Indoor Trainer			Schwinn	Fastback Elite				700.00								
+2010-12-25	8:39 AM	Run	Easy	4.32	Mile	0:45:26.27	118.0	lb								Overcast,Windy	45	F	Merry Christmas!  I ran with some Bruno Mars and Travie McCoy.  The wind was ridiculous.	South Creek/Southfork Loop	Concrete, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-12-27	9:00 AM	Run	Easy	3.91	Mile	0:38:44.51	118.0	lb								Overcast,Windy	40	F	this run was really windy...	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2010-12-28	7:15 AM	Bike	Default	6.36	Mile	0:26:25.61	115.0	lb								Windy	58	F	first ride in a while.  the weather was a little windy but awesome otherwise.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2010-12-30	8:06 AM	Run	Easy	3.85	Mile	0:40:59.08	118.0	lb								Overcast	63	F	sooo, i wore my favorite nb shorts and of course the chafed.  this sucks.	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2010-12-31	8:15 AM	Bike	Default	7.81	Mile	0:36:11.13	115.0	lb								Overcast,Humid	65	F	ride out...	LA Fitness-Fite			Schwinn	Fastback Elite				700.00								
+2010-12-31	9:17 AM	Bike	Default	7.26	Mile	0:31:33.16													missing about .5 mile.... right side totally spasmed went into lower back.  last few miles were not fun.  and it started drizzling in the beginning of the ride.	LA Fitness-Magnolia	Concrete		Schwinn	Fastback Elite				700.00								
+2011-01-02	4:07 PM	Run	Default	3.31	Mile	0:29:10.77	118.0	lb								Sunny	55	F	tried to push it... i think it was 14:30 out, and 14:40 back... there was also some walking... damn i am out of shape...	cr90 out and back	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-01-04	6:41 AM	Run	Easy	2.95	Mile	0:29:29.22	118.0	lb									55	F	left knee hurt a little... not cool.	Northfork-Morgan Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-01-05	6:52 AM	Bike	Default	6.39	Mile	0:26:02.45										Overcast,Rain,Humid	68	F	pretty wet out today.  it was also a little drizzly during the ride.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-01-15	6:19 AM	Run	Default	4.12	Mile	0:53:07.50	118.0	lb								Overcast,Humid	80	F	first day running in Negril.  Walked a little with mom.	Negril Tree House																
+2011-01-17	6:53 AM	Run	Default	4.16	Mile	0:45:13.45										Overcast,Humid	80	F	more running on the beach :-)	Negril Tree House																
+2011-01-18	6:45 AM	Run	Default	3.70	Mile	0:38:13.22										Sunny	80	F	last day in jamaica :-(	Negril Tree House																
+2011-01-22	7:44 AM	Run	Easy	0.50	Mile	0:5:59.16				106	107						30	F	warm up for the race				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-01-22	8:03 AM	Run	Race	5.00	Kilometer	0:24:38.34				77	122					Sunny	30	F	that stupid bitch stole my trophy.  otherwise just ran strong and felt good.<br><br>	Dawson Winter Dash			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	13	67	20	29	1	4	1	20
+2011-01-23	10:07 AM	Run	Default	6.23	Mile	1:24:10.55										Sunny	50	F	ran with scott payne.  felt really lazy.	Brazos Bend State Park			Salomon	XT Wings				80.00								
+2011-01-30	7:35 AM	Run	Race	3.17	Mile	0:25:10.76								4	4	Rain	65	F	ran in retired shoes.  the course was utterly boring	EL Paso 5k			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00	225	2970	25	29	6	271	50	1705
+2011-02-05	12:44 PM	Run	Default	6.00	Mile	1:00:33.67											60	F	hmmm... i am pretty out of shape... oh wells.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-02-08	6:30 PM	Run	Easy	3.10	Mile	0:27:00	118.0	lb									45	F	ran with scott payne.  felt pretty good.   27 includes stops.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-02-13	10:08 AM	Bike	Default	12.75	Mile	0:54:15.16										Sunny	60	F	well it got windy, and my back started hurting.  but it was nice to get out on the bike again.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-02-15	7:00 PM	Run	Easy	3.00	Mile	0:27:00											65	F	meh, felt okay.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-02-19	1:30 PM	Bike	Default	11.00	Mile	1:30:00											80	F	biked with scott and elizabeth.  it was the first time with clips and i didn't fall.  but i did hook my foot a couple of time :-p	ho chi minh trails			Specialized	2008 Rockhopper Comp				600.00								
+2011-02-20	1:27 PM	Run	Long	12.01	Mile	2:33:09.36										Overcast,Windy,Humid			it was windy, i am out of shape, i just walked a lot.  lost my phone. no real pain.  legs were pretty dead from biking yesterday.	Memorial 12 miler	Asphalt, Concrete	W Memorial Loop Around<br>R on Memorial to Woodway Dr.<br>L on W Loop S<br>L Post Oak<br>L S. Post Oak (T intersection)<br>R Briar Hollow Ln<br>L S. Briar Hollow Ln<br>R E. Briar Hollow Ln<br>L. San Felipe<br>L. Willowick<br>L W Lane (up one block), turns into Iverness<br>L Willowick<br>L Inwood<br>L Chilton<br>L Denman<br>R Kirby (to Allen Pkwy)<br>L Waugh<br>(stay around park)<br>R Jackson Hill<br>L Scotland<br>R Snover<br>L Feagan<br>R Roy<br>L Blossom<br>L Cowen (follow loop around)<br>L Blossom<br>L Crestwood<br>R Memorial<br>R Memorial Loop<br><br><br><br><br><br>	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-02-21	5:03 AM	Bike	Default	6.52	Mile	0:32:19.10											65	F	got a little lost. then found it.	Cosmic Fitness			Schwinn	Fastback Elite				700.00								
+2011-02-21	5:30 AM	Crossfit	Default	0.00	Mile	0:45:00	118.0	lb											WOD:<br>run<br>15-12-9<br>pushups<br>situps<br>squats<br>run<br><br>dogged it.  the lags are a little heavy from all of the recent workouts.																	
+2011-02-22	5:09 AM	Bike	Default	5.47	Mile	0:24:15.44										Rain	65	F	it was misting and foggy both ways.  more misty coming back home.	Cosmic Fitness			Schwinn	Fastback Elite				700.00								
+2011-02-22	5:30 AM	Crossfit	Default	0.00	Mile	0:0:00	118.0	lb											5! pushups, sit ups, squats<br><br>6 sets of 5, dead-lift, shoulder presses																	
+2011-02-28		Crossfit	Default	0.00	Mile	0:0:00	118.0	lb											run<br>15 lunges<br>20 jump pull ups																	
+2011-02-28	5:08 AM	Bike	Default	5.71	Mile	0:24:46.13														Cosmic Fitness			Schwinn	Fastback Elite				700.00								
+2011-03-01	5:11 PM	Bike	Default	5.72	Mile	0:25:08.16														Cosmic Fitness			Schwinn	Fastback Elite				700.00								
+2011-03-01	5:30 PM	Crossfit	Default	0.00	Mile	0:0:00	118.0	lb											45 singles (20 singles 10 double)<br>10 swings<br>5 knees to elbows																	
+2011-03-03	5:30 AM	Crossfit	Default				118.0	lb											10 wall balls<br>5 burps<br>x5<br>no biking today.																	
+2011-03-08		Crossfit	Default	0.00	Mile	0:45:00	113.0	lb																												
+2011-03-08	5:07 AM	Bike	Default	5.60	Mile	0:25:26.07														Cosmic Fitness			Schwinn	Fastback Elite				700.00								
+2011-03-08	7:30 PM	Run	Easy	3.23	Mile	0:28:00	113.0	lb												brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-03-10	5:30 AM	Crossfit	Default	0.00	Mile	0:45:00	113.0	lb																												
+2011-03-12		Run	Easy	3.23	Mile	0:29:00	113.0	lb											Shamrock Shuffle	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-03-17	7:42 AM	Run	Default	3.44	Mile	0:32:27.12	113.0	lb												Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-03-20	9:45 AM	Run	Race	26.20	Mile	4:38:03.83								5		Rain,Windy	60	F	took a pee break a mile 21.  met my goal of 2 hours at the half.  rained cats and dogs the whole time.  Actual HPS distance was 26.41<br><br>Bib  <tab>FName  <tab>LName  <tab>City  <tab>State  <tab>Country  <tab>Div  <tab>Age  <tab>Sex  <tab>ChipTime  <tab>ClockTime  <tab>Overall  <tab><br>8616 <tab>Kamalah <tab>Chang <tab>Pearland <tab>TX <tab><tab>WOMEN 25 TO 29 <tab>27 <tab>F <tab>04:42:01 <tab>04:43:31 <tab>7118 <tab>1	LA Marathon			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00	7118	19890	25	29	350	1214	1753	7835
+2011-03-29	7:00 AM	Run	Easy	3.23	Mile	0:29:00	113.0	lb												brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-04-10	7:59 AM	Run	Race	3.08	Mile	0:24:52.82	113.0	lb											meh, super hungover.  with 3 hours of sleep its amazing i got up in the first place.  oh wells.	Run for the Rose			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	139	548	20	29	13	62		
+2011-04-25	8:05 AM	Run	Default	3.47	Mile	0:34:11.39	108.0	lb											also, don't remember this one.  i am assuming i did not feel good seeing as how i ran really slow...	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-05-07	9:15 AM	Run	Default	3.45	Mile	0:31:28.33	108.0	lb											gps is a little screwy on this one because i turned the watch on in cali... don't really remember the run though.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-05-13	6:22 PM	Run	Default	7.57	Mile	1:08:11.01	108.0	lb											ran through golden gate park with vero sovero.  she mentioned something like 5.5 miles, which i was like yeah lets do it.  then about 6 miles in i was soooo over it.  but then we got beer eventhough veronica looked like a 12 year old.  there was this not fun hill right at the end.  whatevs, good run overall.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-05-15	9:26 AM	Run	Race	12.00	Kilometer	1:22:23.59	108.0	lb											there were sooooooooooooooo many people.  i cannot believe our last  mile was not faster.  xiaoyu jumped in around mile 3.5 but apparently we were really slow before that.  stopped and saw some buffalos, then xiaoyu passed us and me and vero had to sprint to pass the naked people and the cake and xiaoyu.  then we had to frickin walk like 4 miles back to meet mista jingles.<br><br>watch measured 7.57 miles	Bay to Breakers			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-05-17	5:59 PM	Run	Default	3.45	Mile	0:30:39	108.0	lb								Sunny,Humid	80	F	ran with scott payne.  amazingly this was the shortest run i have done in a while...	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-05-29	8:23 AM	Run	Default	3.54	Mile	0:33:00	108.0	lb						5	5	Sunny,Humid	83	F	stopped the watch at the park and didn't turn it back on i missed a mile.  felt relatively crappy for such an easy run.  i am blaming it on the heat... and my lack of exercise.  suck.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-05-30	9:32 AM	Bike	Default	12.75	Mile	0:52:20.60	108.0	lb								Sunny,Windy,Humid	85	F	the wind sucked and i blame it for all of my slow miles.  my back hurt for the last 5 miles.  i hate road bikes.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-05-31	6:16 PM	Run	Default	3.16	Mile	0:26:58.79	108.0	lb								Sunny,Humid	90	F	ran with jeanette hagan's martin and scott.  we pushed it a couple of the miles.  took out a girl who decided to cut to the inside when she was supposed to be running on the outside.  dumb ho.  felt pretty good despite the heat.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-01	6:36 AM	Run	Default	2.62	Mile	0:24:55.25	108.0	lb								Sunny,Humid	70	F	ugh, felt like shit.  i guess the passed few days have take something out of my legs.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-06-13	6:35 AM	Run	Default	3.46	Mile	0:29:21.21	108.0	lb								Sunny,Humid	76	F	felt pretty good.  ran counter clockwise.  the third mile was fun.  spent the last .46 cooling down.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-14	6:23 AM	Bike	Default	6.38	Mile	0:25:04.72	108.0	lb								Sunny,Humid	76	F	felt pretty good the entire way.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-06-16	6:13 AM	Run	Default	3.46	Mile	0:29:49.19	108.0	lb								Sunny,Humid	73	F	third mile is fast counter clockwise.  but otherwise felt pretty good.  spent last .46 cooling down.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-17	5:36 AM	Run	Hill	4.66	Mile	0:45:31.66	108.0	lb								Sunny	80	F	first day back at will's hills:<br>Memorial & Shephard                  <br>Long Hills             <br>28 minutes            <br>1's, 2's, 3's<br><br>Did 2 out of the three on the third hill.  Didn't feel too bad.	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-06-18	9:49 AM	Bike	Default	6.37	Mile	0:26:35.01	108.0	lb								Sunny,Windy,Humid	85	F	the slow miles were because of the ridiculous wind.  boo wind!	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-06-20	7:00 AM	Run	Interval	3.38	Mile	0:30:00	108.0	lb											5-4-3-2-1<br><br>10 minute warm up<br>Started at 8:30/8:00/7:30/7:00/6:30<br>5 minute cool down	LA Fitness			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-21	6:34 AM	Bike	Default	6.37	Mile	0:25:09.27	108.0	lb												Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-06-21	6:11 PM	Run	Default	3.62	Mile	0:33:31										Humid	95	F	boo! it was hot and my legs felt really heavy.  felt bad that martin had to leave me behind, because i was totally not feeling it.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-22	5:37 AM	Run	Default	2.89	Mile	0:31:44.41	108.0	lb											mark frasier workout.<br>12 minutes<br>1 minute break<br>12 minutes.	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-06-24	5:34 AM	Run	Default	4.08	Mile	0:36:33.83	108.0	lb								Humid	80	F	cloverleafs shortcakes or something like that.  second half i was getting pretty tired.	wills hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-25	10:16 AM	Run	Default	2.46	Mile	0:23:25.19	108.0	lb								Humid,PartlyCloudy	90	F	the heat was not my friend.  did not feel very good an was worried about being able to drop off lunch for the guys at work.	Southfork Loop	Asphalt		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-06-27	5:34 AM	Run	Default	5.16	Mile	0:53:04.46	108.0	lb								Humid	85	F	Bat Cave          <br>1200 x 3           <br>700 & 500 x 2 Alternate <br><br>Felt pretty good during the entire workout.  the time includes the breaks.  so i think the pace was actually faster.  what evs... i guess i could wear two watches.  maybe next time.	Will's Hills			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-06-28	6:12 PM	Run	Default	3.51	Mile	0:33:02										Sunny,Humid	95	F	lagged behind martin.  legs felt okay.  scott abandoned the run for an escape to valhalla for beers with vadim.  last interval was long because i forgot to stop handy runner, i have given my best estimate of the actual time. :-p	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-07-01	5:35 AM	Run	Default	5.00	Mile	0:43:00.24	108.0	lb								Humid	80	F	wills hills.  it was supposed to be one mile warmup, then 10 second faster miles.  started out aggresive then my legs died on me.  no bueno.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-07-04	7:24 AM	Run	Default	3.45	Mile	0:40:10.77	108.0	lb								Humid	80	F	wills hills. forgot so stop the watch.  got stuck behind the high school girls.  then got lostish,  also got a blister on the bottom of my left foot.  i like the xt wings in principle not so much in practice.	ho chi minh trails			Salomon	XT Wings				80.00								
+2011-07-05	6:33 PM	Run	Default	3.44	Mile	0:29:02										Humid	85	F	tried out the the new new balance shoes.  ran with martin the first real mile ish.  the shoes felt good.  i can't believe i got dropped martin again.  suck.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-07-06	5:34 AM	Run	Default	4.50	Mile	0:39:48.51	108.0	lb								Humid	82	F	5 minute warmup<br>then 2 on 2 off for the other 25 minutes..<br><br>felt pretty good.  but took it easy overall.  didn't want to go too crazy before canada.	Will's Hills			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-07-08	1:49 PM	Run	Default	5.00	Mile	0:45:00	108.0	lb											running some of the route around the sinister 7.  holy crap the hills are steep.				New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-07-09	10:31 PM	Run	Default	7.86	Mile	1:20:21.13	108.0	lb									60	F	first couple miles were slow because the route was un-runnable for the first 2 miles. then i had to search around in the dark looking for the trail.. but we won!!!!<br><br>http://www.sinister7.com/results/2011_draft_team_results.htm	Sinister 7 Leg 7			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-07-16	7:05 PM	Run	Default	3.50	Mile	0:40:37.68	108.0	lb											it was dark and i was a little buzzed. legs just weren't filling it.	Boston			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-08-01	7:07 AM	Bike	Default	6.37	Mile	0:25:02.15	108.0	lb									0	F	weather was great and no wind.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-08-02	6:38 PM	Run	Default	3.55	Mile	0:33:52														brian o'neills running club	Concrete, Trail															
+2011-08-04	6:55 AM	Bike	Default	6.37	Mile	0:24:42	108.0	lb									80	F	watch died.  weather was good. needed to get to work.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-08-20	8:31 AM	Bike	Default	6.37	Mile	0:24:47.27	108.0	lb												Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-08-21	9:02 AM	Bike	Default	7.04	Mile	0:28:25.28	108.0	lb								Sunny,Humid	85	F	ride out was good.	LA Fitness New Route			Schwinn	Fastback Elite				700.00								
+2011-08-21	10:22 AM	Bike	Default	7.01	Mile	0:32:22.52	108.0	lb								Sunny,Humid	90	F	definitely hotter at 10:30.  and did a little running.	LA Fitness New Route			Schwinn	Fastback Elite				700.00								
+2011-08-23	6:41 AM	Run	Default	4.20	Mile	0:41:19.72	108.0	lb								Sunny,Humid	85	F	felt a little nauseous.  not fun.	South Creek/Southfork Loop	Concrete, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-08-24	6:57 AM	Run	Default	4.03	Mile	0:37:28.77	108.0	lb								Sunny,Humid	85	F	felt pretty good.  except my right hip starting hurting a bit.	LOEE Loop	Concrete, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-08-27	9:43 AM	Run	Default	4.85	Mile	0:57:35.60	108.0	lb								Sunny,Humid	90	F	couldn't make up for three hours of sleep on thursday night with 11 hours of sleep.  then i waited too late to go running.  felt dizzy and my right hip got really tight and was hurting after mile 2.  this was supposed to be a six mile run and ended with barely 5.  boo.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-08-28	8:25 AM	Bike	Easy	14.00	Mile	0:56:56.43	108.0	lb								Sunny,Humid	85	F	I think it was 27 minutes out and 30 minutes back.  Did 20 minutes/2 miles on the elliptical and did some abs and bench press.  i will be glad when it does not get up to 105 during the day.	LA Fitness New Route			Schwinn	Fastback Elite				700.00								
+2011-08-29	7:27 AM	Run	Default	3.44	Mile	0:31:05.42	108.0	lb								Sunny	80	F	forgot to turn watch back on after stopping.  added .25 at 2:00.  overall felt pretty good.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-08-30	7:36 AM	Bike	Default	6.37	Mile	0:26:35.16	108.0	lb								Sunny	75	F	lots of traffic. will have to bike earlier from now on to beat school traffic.  	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2011-08-30	7:37 PM	Run	Default	3.76	Mile	0:35:02											95	F	didn't stop the watch for a few minutes... so not bad.  ran and talked with scott.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-09-01	6:00 AM	Yoga	Default	0.00	Mile	0:0:00	108.0	lb											happy belly hot vinyasa.																	
+2011-09-03	9:29 AM	Run	Default	4.24	Mile	0:48:48.49	108.0	lb											ended up not having enough time to 8 miles before the errands of the day.  and i felt like shit.  boo.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-09-03	4:30 PM	Yoga	Default	0.00	Mile	1:30:00	108.0	lb											hot yoga at yoga one with bevla																	
+2011-09-04	5:04 PM	Run	Easy	5.57	Mile	0:46:35.43	108.0	lb								Sunny,Humid	85	F	ran with jeremie. for the most part we ran pretty consistently.  the slower miles were on the trail.  felt like crap towards the end.	ho chi minh trail			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-09-06	6:23 PM	Run	Default	3.51	Mile	0:31:04										Sunny	90	F	ran with scott... felt pretty good :-p	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-09-09	7:47 AM	Run	Default	3.46	Mile	0:31:00.07	108.0	lb								Sunny,Humid	75	F	felt pretty good. for some reason the weather channel says it's 63 here right now.  but there is no way that's true...	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-09-12	7:37 AM	Run	Default	3.42	Mile	0:27:45.41	108.0	lb								Humid	80	F	don't remember this run.... apparently i felt pretty good.  probably took the last bit as a cool down.  	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-09-13	6:34 PM	Run	Default	3.63	Mile	0:32:33										Sunny,Humid	100	F	it was pretty hot, and i was feeling the indian food from lunch, and scott was being a bum.  but whatevs, got the run in.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-09-25	1:35 PM	Run	Default	3.20	Mile	0:37:52.25	108.0	lb								Sunny,Humid	102	F	somehow in my head i thought because memorial was shady this run would not be awful.  but it was.  in fact it degraded into a not run. so much as death march.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-09-26	5:36 AM	Run	Default	3.07	Mile	0:31:12.54	108.0	lb								Humid	80	F	first run back with wills hills.  took it pretty easy. got confused with a sprinter. also considered giving up running.  then will told me about his perfect marathon and i guess i will stick with it a bit longer.	wills hills			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-09-27	6:30 PM	Run	Default	3.52	Mile	0:29:56										Overcast,Humid	97	F	started out with scott... then martin caught up, ran with martin for a little, then dropped off... didn't feel awful.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-09-29	7:10 AM	Run	Default	3.40	Mile	0:28:55.84	108.0	lb								Sunny,Humid	80	F	listed to wyclef until my mp3 player decided it got too sweaty. not too bad.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-09-30	5:38 AM	Run	Easy	2.97	Mile	0:23:27.59	108.0	lb											ran wills hills.  actually i ran with will. felt pretty good.  then we biked.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-09-30	6:13 AM	Bike	Easy	8.22	Mile	0:32:28.41	108.0	lb									80	F	just cruised around the loop.  didn't really try to ride fast or anything. talked about mgs with will.	fruit loop			Schwinn	Fastback Elite				700.00								
+2011-10-01	8:25 AM	Run	Race	5.00	Kilometer	0:23:33.69	108.0	lb						6	6	Sunny,Humid	80	F	soooo there were like 20 million people there.  got stuck the first mile.  then picked it up the second and apparently 3rd mile.  go me!<br><br>	Houston Race for the Cure			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	318	2875	25	29	12	305	64	1697
+2011-10-02	12:18 PM	Run	Default	5.87	Mile	0:48:14.99	108.0	lb								Sunny,Humid	80	F	wanted to get a long run in before the half marathon.  maintained a decent pace.  waited kind of late to get the run in, but it wasn't too hot.	Northfork-Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-10-03	5:35 AM	Run	Default	5.05	Mile	0:41:46.29	108.0	lb											warm up:<br>2 mile repeats, then rest (4 minutes).  then 3 half mile repeats (3 minutes).	wills hills																
+2011-10-04	5:42 PM	Run	Default	3.44	Mile	0:28:59										Sunny,Humid	85	F	uhm, i think the run was pretty good.  got there early because scott is taking french classes.  also, had dinner with nora and raaj.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-10-09	9:06 AM	Run	Race	13.10	Mile	1:53:46.38	108.0	lb						6	6	Sunny	60	F	right hip got tight and hurt.  vero passed me around mile 10.  jingles passed me sometime earlier.  the course was way "hillier" than i thought.  i think there were two hills in that 11 minute mile.  i also don't appreciate that the course was long.  not cool long beach.<br><br>GPS measured 13.29 miles/ 8:34 pace, adjusted for "PRs"	Long Beach Half Marathon			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	1465	10715	25	29	75	989	415	6299
+2011-10-12	5:38 AM	Run	Default	2.92	Mile	0:31:05.83	108.0	lb								Humid	80	F	marc fraser.  12 minutes 1 direction 1 minute rest 12 the other.	wills hills			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-10-17	5:34 AM	Run	Default	5.01	Mile	0:39:10.51	108.0	lb								Humid	80	F	Dog Bowl East - 800's<br>felt crappy in the middle.  but i guess i was going faster after 2 and 3.	wills hills			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-10-21	5:05 AM	Run	Tempo	8.01	Mile	1:03:13.32	108.0	lb						8	8		65	F	wills hills:<br>Meet at Memorial Park - Tempo Run 8 miles marathon pace + 30 - 45 sec.<br><br>best run ever! mostly just because my last mile was my fastest.  i was shooting for 8:30 but never really made it to that... some old (like 60)  black guys told me i was fast. random ex hiller chick told me i was beautiful. and other current hiller told me i looked speedy even if i wasn't.  i will take it! :-D	Memorial Loop	Track		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-10-24	5:35 AM	Run	Default	3.80	Mile	0:35:08.78	108.0	lb								Humid	70	F	200m relays<br>13 minutes one way 4 minute break 13 minutes the other way.<br><br>felt pretty good...	wills hills			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-10-25	6:21 PM	Run	Default	3.50	Mile	0:29:36													ran with scott. somehow the workout didn't get uploaded from my phone. and scott sucks because he has stupid french class on tuesdays now. uber lame.	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-10-29	4:40 PM	Run	Default	3.48	Mile	0:29:05.02	108.0	lb																												
+2011-10-31	5:32 AM	Run	Default	5.55	Mile	0:54:27.89	108.0	lb											halloween run.  in the graveyard. boo!	wills hills			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-11-05	8:06 AM	Run	Race	5.21	Mile	0:40:55.42	108.0	lb											felt like uber shit the entire time.  sucky mc suck suck.	Hermann Park Conservancy			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-11-13	12:43 PM	Run	Easy	3.28	Mile	0:26:05.07	108.0	lb								Rain,Windy,Humid	80	F	runnning in the rain!!! :-D  overall felt pretty good.  apparently should have eaten, because i actually fainted two hours later :-/	Northfork Out and Back	Asphalt, Treadmill		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-11-15	6:02 PM	Run	Default	3.53	Mile	0:30:55													ran with scotty.  then had beers and sweet potato fries.  then more beer, then champagne with the new guy.... hmmmm... i don't think that was a productive run.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-11-24	7:02 AM	Run	Race	5.00	Kilometer	0:24:09.09	108.0	lb						6	7	Sunny	35	F	felt pretty good and just tried to push it the entire way.	Centreville Turkey Trot	Asphalt	http://www.runwashington.com/other/varunturkeytrotmap.html	ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00	419	3714	20	29	42	550	99	1984
+2011-11-29	6:05 PM	Run	Default	3.68	Mile	0:29:35											60	F	easy run before movies with sammy.  no beer.  decided to try sober bon running. 	brian o'neills running club	Concrete, Trail		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2011-12-06	6:35 PM	Run	Default	3.68	Mile	0:30:28											40	F	it was fricking cold.  i forgot to stop my watch.  boo!	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-12-13	6:36 PM	Run	Default	3.40	Mile	0:25:41										Humid	62	F	ran all by myself :-(	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-12-17	9:19 AM	Run	Default	7.08	Mile	0:57:22.32	108.0	lb											killed some time while getting the car fixed. felt pretty good overall and took it easy.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2011-12-20	6:21 PM	Run	Default	3.51	Mile	0:26:05											60	F	i had to run allllllllllllllllllllll by myseeeeelf.  stupid scott was being a big baby about his foot still hurting.  it wasn't too cold, i think it was a little colder than the week before though.  maybe scott will be back on next week.  anyways, finished chugged a bud light and ordered some southwest rolls.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2011-12-30	4:18 PM	Run	Default	3.82	Mile	0:30:09.48	108.0	lb											don't really remember this run.	Northfork Loop	Asphalt, Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2012-01-10	6:15 PM	Run	Default	3.51	Mile	0:31:31													don't remember much about this run.  i know it was with scott.  i think it was not as cold as i thought it would be.  and scott test ran some sauconys	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2012-01-25	1:35 PM	Run	Default	4.03	Mile	0:33:08.99	108.0	lb						6	6	Rain	63	F	mile three was an interval.  last mile was a cool down.  the rain wasn't too bad.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2012-01-28	9:29 AM	Bike	Default	7.02	Mile	0:35:02.68	108.0	lb								Windy	60	F	super windy. kinda sucked.	LA Fitness New Route			Schwinn	Fastback Elite				700.00								
+2012-01-28	10:00 AM	Run	Default	3.30	Mile	0:25:30	108.0	lb											run between bikes. it was going good til the jerkface with too much cologne got on the treadmill next to me.  people should not wear cologne and workout, it's just not cool.	LA Fitness			ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2012-01-28	10:58 AM	Bike	Default	7.03	Mile	0:26:36.62	108.0	lb								Windy	63	F	nice having the wind to my back.	LA Fitness New Route			Schwinn	Fastback Elite				700.00								
+2012-01-31	6:40 PM	Run	Default	3.51	Mile	0:27:35													waited for martin.  started running with scott.  then with martin.  martin dropped me in the last mile.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2012-02-01		Elliptical	Default	0.00	Mile	0:30:00																														
+2012-02-02		Run	Default	3.50	Mile	0:30:00														SRC Gym	Grass		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2012-02-05	10:11 AM	Run	Easy	6.02	Mile	0:49:18.95	108.0	lb								Overcast	50	F	felt pretty good.  it seemed like it was going to rain, but it never did.				ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2012-02-07	6:31 PM	Run	Default	3.49	Mile	0:31:20																														
+2012-02-08		Elliptical	Default	0.00	Mile	0:30:00														SRC Gym	Grass															
+2012-02-09		Run	Interval	3.20	Mile	0:30:00													10 minute warmup, 5-4-3-2-1, 5 minute cool down<br>started warm up at 9:00 min/mile	SRC Gym	Grass															
+2012-02-13	4:01 PM	Bike	Default	8.31	Mile	0:34:59.04	108.0	lb								Windy	65	F	biked with sammy on his new bike.  had to ditch him early to get back in time for my mani-pedi.  the ride back sucked because it was super windy.				Schwinn	Fastback Elite				700.00								
+2012-02-14		Run	Interval	3.60	Mile	0:30:00													10 minute warmup, 5-4-3-2-1, 5 minute cool down<br>started warm up at 8:30 min/mile	SRC Gym	Grass															
+2012-02-16		Run	Default	3.00	Mile	0:30:00													actually did 2 miles on the tread mill and followed it up with 10 minutes on the bike. right calf tightened up and refused to loosen.  i do not have a good feeling about this.	SRC Gym	Grass															
+2012-02-17	6:23 AM	Bike	Default	15.42	Mile	1:02:58.09	108.0	lb								Overcast,Windy	60	F	a little windy.  morning ride to replace the 6 mile run since my knee and calf was bothering me yesterday.	Bike Loop	Asphalt		Schwinn	Fastback Elite				700.00								
+2012-02-18	10:52 AM	Run	Default	3.49	Mile	0:30:34.70	108.0	lb								Overcast,Rain	60	F	supposed to be an easy run before the 15 miler tomorrow.  it was storming in the morning so waited out most of the rain.  still got drizzled on for like 10 minutes.  last half was the opposite of fun.  my right calf started hurting, then my right knee, and then my right ankle.  towards the end my left ankle started joining in on the fun.  i am thinking 9 miles running tomorrow, and one hour biking.	Silvercreek Loop	Concrete		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2012-02-19	11:28 AM	Bike	Easy	7.10	Mile	0:29:14.90	108.0	lb									60	F	pre run bike. a little chilly and windy.	Memorial Bike Loop			Schwinn	Fastback Elite				700.00								
+2012-02-19	12:08 PM	Run	Default	9.03	Mile	1:15:02.13	108.0	lb								Sunny	60	F	first run with the motoactv.  it was a little weird.  mile 6 was some dynamic stretching at the end.  my go mile was annoying because motoactv decided to play some stupid country music.	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Black Lace	55.00								
+2012-02-19	1:47 PM	Bike	Default	7.13	Mile	0:29:18.55	108.0	lb								Sunny,Windy	65	F	post run bike.  took it easy.	Memorial Bike Loop			Schwinn	Fastback Elite				700.00								
+2012-02-21		Run	Default	3.10	Mile	0:30:00													ran with scott, then nora joined us for beers.	brian o'neills running club	Concrete, Trail		New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2012-02-23	5:53 PM	Bike	Default	2.92	Mile	0:20:14.65	108.0	lb											downtown to bars				Schwinn	Fastback Elite				700.00								
+2012-02-23	8:27 PM	Bike	Default	1.74	Mile	0:19:00.61	108.0	lb											back to brando potatos.  sammy left me, so i biked very slowly back.  apparently he was looking for me the entire time... oh wells, he should nto bike like a crazy person.  you are either a vehicle or a pedestrian, you can't have it both ways.				Schwinn	Fastback Elite				700.00								
+2012-02-26	1:07 PM	Bike	Default	7.70	Mile	0:31:25.94	108.0	lb											pre run bike.	Memorial Bike Loop			Schwinn	Fastback Elite				700.00								
+2012-02-26	1:51 PM	Run	Default	9.09	Mile	1:20:27.88	108.0	lb											this run worries me.  my calf was hurting for most of the run.  i had to stop and stretch every 1.5 miles.  defintely did not feel in marathon shape...	Memorial Loop	Track		ASICS	Gel-DS Trainer 12	9.50	US/Canada	Pink Laces	55.00								
+2012-02-26	3:58 PM	Bike	Default	7.61	Mile	0:30:48.13	108.0	lb											post run bike.  still lots of cowshit from the rodeo.  i hate the rodeo.	Memorial Bike Loop			Schwinn	Fastback Elite				700.00								
+2012-02-27		Run	Default	3.10	Mile	0:30:00													calibrated motoactv, then did 5-4-3-2-1.  had to change to stupid other treadmill that only does average pace and speed in mph.  but the last 2 miles were average 7:13 pace.  whatever that means.  there was not pain that made it hard to run.																	
+2012-03-01	6:49 AM	Bike	Default	6.81	Mile	0:27:43.46	108.0	lb											first attempt at riding out to the rig.  only got a little lost.	Hotel to CTF			Schwinn	Fastback Elite				700.00								
+2012-03-01	6:07 PM	Bike	Default	6.82	Mile	0:27:17.45	108.0	lb											the ride back was definitely waaay harder.  i don't know if it was the 11 hour day, or that the uphills going back are a lot longer.	Hotel to CTF			Schwinn	Fastback Elite				700.00								
+2012-03-02	6:44 AM	Bike	Default	6.75	Mile	0:27:06.52	108.0	lb								Rain	75	F	this morning it was kind of misty but not as foggy as yesterday.  definitely felt the ride when i climbed the rig stairs this morning.	Hotel to CTF			Schwinn	Fastback Elite				700.00								
+2012-03-10	8:24 AM	Run	Default	3.28	Mile	0:26:21.57	108.0	lb																												
+2012-03-16	4:44 PM	Run	Default	4.02	Mile	0:38:31.81	108.0	lb																												
+2012-03-18	8:31 AM	Run	Race	26.20	Mile	4:40:04.83	108.0	lb												LA Marathon			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00	6909	22286					1784	8953
+2012-05-18	9:48 AM	Run	Default	1.03	Mile	0:9:18.66	108.0	lb																												
+2012-09-22	8:21 AM	Run	Default	2.53	Mile	0:32:41.40	108.0	lb																												
+2012-09-23	7:57 AM	Run	Default	4.17	Mile	0:42:08.45	108.0	lb																												
+2012-10-15	4:52 AM	Run	Default	2.69	Mile	0:31:40.07	108.0	lb																												
+2012-11-01	8:31 PM	Bike	Default	26.56	Mile	2:12:25.34	108.0	lb											first ride in monterrey				Schwinn	Fastback Elite				700.00								
+2012-11-12	7:10 AM	Bike	Default	0.00	Mile	0:0:01.13	108.0	lb																												
+2012-11-12	7:14 AM	Run	Default	3.35	Mile	0:36:32.85	108.0	lb																												
+2012-11-14	7:56 AM	Run	Default	2.08	Mile	0:20:48.24	108.0	lb																												
+2012-11-18	6:56 AM	Run	Default	0.98	Mile	0:10:27.38	108.0	lb																												
+2012-11-18	8:21 AM	Run	Default	6.27	Mile	0:59:03.79	108.0	lb																												
+2012-11-22	7:39 AM	Run	Default	6.31	Mile	0:56:30.82	125.0	lb												Bethesda Turkey Chase			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00			25	29	72	295	558	1988
+2012-12-02	7:59 AM	Run	Default	6.28	Mile	0:55:49.85	108.0	lb																												
+2012-12-09	7:05 AM	Run	Race	26.20	Mile	5:19:59.60	125.0	lb												Monterrey Marathon			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00	2410	3461	25	29	45	79	381	624
+2013-06-11	5:32 AM	Run	Default	3.36	Mile	0:43:02.96	108.0	lb																												
+2013-09-07	7:43 AM	Run	Default	3.18	Mile	0:36:23.97	108.0	lb																												
+2013-09-08	6:31 AM	Run	Race	10.00	Kilometer	1:07:49.57	130.0	lb						2	5					Borregos 10k			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00	1093	1727	25	29	33	72		
+2013-10-28	6:49 AM	Run	Default	4.30	Mile	0:49:21.36	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-10-30	6:27 AM	Run	Default	4.07	Mile	0:43:28.12	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-01	6:47 AM	Run	Default	4.13	Mile	0:41:43.94	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-04	6:27 AM	Run	Default	4.00	Mile	0:39:39.95	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-06	6:22 AM	Run	Default	4.00	Mile	0:38:46.73	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-12	6:31 AM	Run	Default	4.02	Mile	0:41:30.72	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-14	7:32 AM	Run	Default	4.00	Mile	0:37:19.82	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-19	7:35 AM	Run	Default	4.01	Mile	0:39:18.43	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-26	7:46 AM	Run	Default	4.00	Mile	0:40:07.39	130.0	lb		4	93									Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-11-28	8:03 AM	Run	Default	3.14	Mile	0:33:43.76	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2013-12-22	10:48 AM	Run	Default	5.05	Mile	0:48:10.61	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-01-01	4:46 PM	Run	Default	5.01	Mile	0:50:56.51	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-01-05	1:22 PM	Run	Default	5.01	Mile	0:48:07.26	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-01-12	10:00 AM	Run	Default	7.01	Mile	1:23:48.39	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-01-16	8:11 AM	Run	Default	4.02	Mile	0:39:20.54	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-02-16	10:57 AM	Bike	Default	1.77	Mile	0:8:50.33	130.0	lb																												
+2014-02-16	12:12 PM	Bike	Default	2.03	Mile	0:13:26.15	130.0	lb																												
+2014-02-22	8:58 AM	Run	Default	3.40	Mile	0:32:35.97	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-02-23	11:04 AM	Bike	Default	1.00	Mile	0:4:37.10	130.0	lb																												
+2014-02-23	12:13 PM	Bike	Default	1.58	Mile	0:11:54.14	130.0	lb																												
+2014-02-25	8:27 AM	Run	Default	3.34	Mile	0:33:47.45	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-03-09	8:01 AM	Run	Default	6.20	Mile	0:56:42.84	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-03-12	6:08 PM	Run	Default	5.65	Mile	0:54:15.02	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-04-13	10:59 AM	Bike	Default	2.63	Mile	0:19:35.36	130.0	lb																												
+2014-04-17	5:13 PM	Run	Default	4.00	Mile	0:40:40.98	130.0	lb												Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-04-27	10:02 AM	Bike	Default	2.20	Mile	0:10:53.12	130.0	lb								PartlyCloudy	87	F																		
+2014-04-27	11:04 AM	Bike	Default	2.22	Mile	0:16:43.05	130.0	lb								Sunny	92	F																		
+2014-06-15	8:15 AM	Run	Long	2.00	Mile	0:20:11.64	130.0	lb								Overcast,Humid	76	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-15	8:25 AM	Run	Long	2.02	Mile	0:26:46.86	130.0	lb								Overcast,Humid	76	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-16	6:59 AM	Run	Easy	4.01	Mile	0:45:06.61	130.0	lb		183	196					Overcast,Rain,Humid	72	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-18	7:05 AM	Run	Easy	4.00	Mile	0:44:44.12	130.0	lb		181	194					Overcast,Rain,Humid	71	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-21	1:25 PM	Run	Easy	2.01	Mile	0:22:11.51	130.0	lb		174	195									Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-23	7:28 AM	Run	Easy	4.01	Mile	0:42:59.79	130.0	lb		176	193					Overcast,Rain,Humid	72	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-25	7:19 AM	Run	Easy	4.01	Mile	0:39:01.54	130.0	lb		181	199					Rain,Humid,PartlyCloudy	71	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-29	8:15 AM	Run	Long	3.00	Mile	0:28:00.65	130.0	lb		157	179					Overcast,Humid	76	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-06-29	8:56 AM	Run	Long	0.94	Mile	0:11:57.77	130.0	lb		169	183					Overcast,Humid	78	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-07-03	7:16 AM	Run	Long	4.00	Mile	0:39:13.43	130.0	lb		183	196					Overcast,Humid	70	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-07-05	10:53 AM	Run	Easy	2.98	Mile	0:33:07.40	130.0	lb		157	183					Humid,PartlyCloudy	80	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-07-06	11:31 AM	Run	Long	2.00	Mile	0:19:56.86	130.0	lb								Humid,PartlyCloudy	77	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-07-15	7:26 AM	Run	Long	3.94	Mile	0:43:54.87	130.0	lb								Humid,PartlyCloudy	75	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-07-28	7:43 AM	Run	Easy	3.01	Mile	0:34:53.57	130.0	lb		162	180					Humid,PartlyCloudy	76	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-07-29	7:44 AM	Run	Long	2.80	Mile	0:35:18.11	130.0	lb		177	193					Sunny,Humid	74	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-08-05	7:46 AM	Run	Long	3.96	Mile	0:46:18.63	130.0	lb								Humid,PartlyCloudy	75	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-08-07	7:58 AM	Run	Long	4.01	Mile	0:47:32.34	130.0	lb								Sunny,Humid	74	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-08-16	8:45 AM	Run	Easy	3.73	Mile	0:48:14.13	130.0	lb		172	186					Sunny,Humid	77	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-09-16	7:20 AM	Run	Long	3.00	Mile	0:34:45.40	130.0	lb								Overcast,Humid	72	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-09-18	7:33 AM	Run	Long	2.72	Mile	0:34:00.73	130.0	lb		179	198					Overcast,Humid	73	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-09-20	8:35 AM	Run	Easy	3.96	Mile	0:43:13.65	130.0	lb								Humid	73	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-09-21	8:36 AM	Run	Easy	5.11	Mile	1:25:31.14	130.0	lb								Humid	72	F		Chipinque			New Balance	WT101	9.50	US/Canada	LW Trail Runner	63.95								
+2014-10-05	9:08 AM	Run	Race	26.20	Mile	5:37:05.11	130.0	lb								PartlyCloudy	54	F	Official Race Time:5:53:22<br>Sucky, mc suck suck.<br><br>Wanted to run a half, but the event organizers lied about a shuttle at the hlafway point.  no free beers.  over all suck.	Portland Marathon			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-10-28	7:09 AM	Run	Easy	3.04	Mile	0:33:55.07	130.0	lb								Sunny	63	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-10-29	7:10 AM	Run	Easy	3.03	Mile	0:32:44.99	130.0	lb								PartlyCloudy	63	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-10-30	6:38 AM	Run	Easy	3.07	Mile	0:33:02.87	130.0	lb								PartlyCloudy	61	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-10-31	6:33 AM	Run	Easy	3.01	Mile	0:31:07.55	130.0	lb								PartlyCloudy	60	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-11-04	7:38 AM	Run	Easy	3.00	Mile	0:33:41.51	130.0	lb								Overcast	65	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-11-05	6:58 AM	Run	Easy	3.00	Mile	0:30:48.39	130.0	lb								Overcast,Rain	64	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2014-11-06	6:30 PM	Elliptical	Default	3.00	Mile	0:30:00														Sports World Gym																
+2015-01-04	10:53 AM	Run	Easy	3.10	Mile	0:45:54.59	130.0	lb									59	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-07	7:10 AM	Run	Easy	3.03	Mile	0:34:56.04	130.0	lb									51	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-17	10:07 AM	Run	Easy	3.96	Mile	0:51:04.78	130.0	lb								PartlyCloudy	58	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-18	10:58 AM	Run	Easy	5.04	Mile	1:02:57.82	130.0	lb								Overcast,Rain	59	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-19	7:14 AM	Run	Easy	3.84	Mile	0:34:00.88	130.0	lb								Overcast,Rain	55	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-21	7:11 AM	Run	Easy	3.05	Mile	0:32:51.01	130.0	lb								Rain,PartlyCloudy	57	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-22	4:05 PM	Run	Easy	3.06	Mile	0:33:21.52	130.0	lb								Overcast,Rain	55	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-23	7:14 AM	Run	Easy	3.36	Mile	0:35:23.15	130.0	lb								Overcast	43	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-24	3:49 PM	Run	Easy	2.58	Mile	0:52:39.57	130.0	lb								PartlyCloudy	58	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-25	11:16 AM	Run	Easy	8.26	Mile	1:25:58.06	130.0	lb		176	193					PartlyCloudy	63	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-27	6:38 AM	Run	Easy	2.60	Mile	0:34:27.92	130.0	lb								PartlyCloudy	55	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-28	7:10 AM	Run	Easy	3.00	Mile	0:34:18.12	130.0	lb								PartlyCloudy	53	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2015-01-30	6:57 AM	Run	Easy	3.02	Mile	0:35:46.88	130.0	lb								Overcast,Rain	55	F		Mirasierra Out and Back			ASICS	Gel-DS Trainer 12	9.50	US/Canada		66.00								
+2017-06-15	7:22 PM	Run	Default	2.75	Mile	0:40:13.50	130.0	lb		147	170					Humid,PartlyCloudy	88	F																		
+2017-06-16	12:41 PM	Run	Default	3.02	Mile	0:32:53.85	130.0	lb								PartlyCloudy	60	F																		
+2017-06-18	10:16 AM	Run	Default	3.00	Mile	0:35:59.11	130.0	lb								Overcast,Rain	57	F																		
+2017-06-20	6:59 PM	Run	Default	2.93	Mile	0:42:46.89	130.0	lb								Overcast,Humid	88	F																		
+2017-06-24	4:37 PM	Run	Default	3.13	Mile	0:37:58.39	130.0	lb								Overcast,Humid	86	F																		
+2019-01-19	9:02 AM	Run	Race	5.00	Kilometer	0:31:29	130.0	lb		188	200			3	8	Windy	40	F		We Are Houston 5K									1536	6017	30	34	112	323	674	2636
+2019-03-28	6:51 PM	Run	Default	3.02	Mile	0:35:37.84	130.0	lb																												
+2019-04-02	6:06 PM	Run	Default	2.90	Mile	0:34:13.30	130.0	lb																												
+2019-04-15	3:04 AM	Run	Default	0.00	Mile	0:0:00.83	130.0	lb																												
+2020-04-28	7:12 AM	Run	Default	3.06	Mile	0:40:24.75	130.0	lb		165	199																									
+2020-04-30	8:10 AM	Run	Default	3.01	Mile	0:35:29.08	130.0	lb		189	207																									
+2020-06-01	6:46 AM	Run	Default	3.00	Mile	0:39:47.65	130.0	lb		168	192																									
+2020-06-08	6:59 AM	Run	Default	3.03	Mile	0:40:26.47	130.0	lb		167	189																									
+2020-06-11	6:44 AM	Run	Default	3.00	Mile	0:35:21.07	130.0	lb		175	200																									
+2020-06-16	7:15 AM	Run	Default	2.24	Mile	0:29:10.65	130.0	lb		155	190																									
+2020-06-18	6:54 AM	Run	Default	3.04	Mile	0:36:23.34	130.0	lb		170	197																									
+2020-06-23	6:57 AM	Run	Default	2.07	Mile	0:28:29.36	130.0	lb																												
+2020-06-28	12:43 PM	Run	Default	6.53	Mile	0:12:03.12	130.0	lb																												
+2020-07-01	7:14 AM	Run	Default	3.00	Mile	0:33:58.47	130.0	lb		177	197																									
+2020-07-03	8:36 AM	Run	Default	3.01	Mile	0:33:03.64	130.0	lb																												
+2020-07-04	7:30 AM	Run	Default	4.00	Mile	0:49:15.53	130.0	lb		167	183																									
+2020-07-06	7:19 AM	Run	Default	3.01	Mile	0:36:30.41	130.0	lb		167	183																									
+2020-07-07	7:24 AM	Run	Default	3.38	Mile	0:40:35.10	130.0	lb		168	191																									
+2020-07-08	7:17 AM	Run	Default	3.01	Mile	0:34:51.48	130.0	lb		165	189																									
+2020-07-10	6:38 AM	Run	Default	3.01	Mile	0:34:47.80	130.0	lb		165	187																									
+2020-07-13	7:16 AM	Run	Default	2.28	Mile	0:21:49.49	130.0	lb		176	193																									
+2020-07-15	7:25 AM	Run	Default	3.00	Mile	0:32:40.56	130.0	lb		168	184																									
+2020-07-16	7:35 PM	Run	Default	1.05	Mile	0:11:35.05	130.0	lb		166	189																									
+2020-07-20	7:13 AM	Run	Default	3.01	Mile	0:32:16.42	130.0	lb		170	192																									
+2020-07-23	7:16 AM	Run	Default	3.01	Mile	0:30:35.40	130.0	lb		176	194																									
+2020-07-28	7:33 AM	Run	Default	3.05	Mile	0:32:27.71	130.0	lb		169	189																									
+2020-08-05	7:21 AM	Run	Default	3.02	Mile	0:31:17.12	130.0	lb		171	189																									
+2020-08-07	7:49 AM	Run	Default	2.28	Mile	0:28:13.33	130.0	lb		161	182																									
+2020-08-10	11:31 AM	Run	Default	1.12	Mile	0:19:20.67	130.0	lb																												
+2020-08-13	7:43 AM	Run	Default	1.02	Mile	0:16:33.05	130.0	lb																												
+2020-08-13	8:02 AM	Run	Default	0.51	Mile	0:8:22.92	130.0	lb																												
+2020-08-18	7:32 AM	Run	Default	2.25	Mile	0:21:49.30				174	188					Rain,Humid,PartlyCloudy	78	F																		
+2020-08-19	7:13 AM	Run	Default	2.21	Mile	0:21:11.79				173	193					Humid,PartlyCloudy	76	F																		
+2020-08-20	6:57 AM	Run	Default	2.04	Mile	0:18:46.32				176	196					Humid,PartlyCloudy	74	F																		
+2020-08-21	7:43 AM	Run	Default	2.07	Mile	0:20:00.13				173	194					Humid,PartlyCloudy	77	F																		
+2020-08-22	7:23 AM	Run	Default	3.01	Mile	0:29:06.49				177	193					Humid,PartlyCloudy	76	F																		
+2020-08-23	7:22 AM	Run	Default	3.03	Mile	0:28:24.92				182	195					Rain,Humid,PartlyCloudy	77	F																		
+2020-08-24	7:25 AM	Run	Default	2.22	Mile	0:23:21.09				165	182					Humid,PartlyCloudy	77	F																		
+2020-08-25	7:16 AM	Run	Default	2.25	Mile	0:21:43.50				172	184					Humid,PartlyCloudy	77	F																		
+2020-08-26	7:48 AM	Run	Default	2.12	Mile	0:24:31.15				155	171					Overcast,Humid	79	F																		
+2020-08-27	7:13 AM	Run	Default	2.03	Mile	0:18:35.03				172	191					Humid,PartlyCloudy	78	F																		
+2020-08-28	7:19 AM	Run	Default	2.03	Mile	0:20:01.18				168	185					Humid,PartlyCloudy	82	F																		
+2020-08-29	7:32 AM	Run	Default	3.11	Mile	0:29:00.91				179	194					Humid,PartlyCloudy	80	F																		
+2020-08-30	7:54 AM	Run	Default	3.03	Mile	0:30:02.25				166	186					Humid,PartlyCloudy	81	F																		
+2020-08-31	7:38 AM	Run	Default	2.24	Mile	0:22:26.72				167	186					Humid,PartlyCloudy	83	F																		
+2020-09-01	7:27 AM	Run	Default	2.20	Mile	0:21:42.63				171	187					Humid,PartlyCloudy	82	F																		
+2020-09-05	6:24 PM	Run	Default	3.07	Mile	0:52:27.11										Humid,PartlyCloudy	92	F																		
+2020-09-08	6:22 PM	Run	Default	3.14	Mile	0:29:12.93				183	199					Humid,PartlyCloudy	84	F																		
+2020-09-11	7:49 AM	Run	Default	3.04	Mile	0:30:00.41				174	187					Humid,PartlyCloudy	73	F																		
+2020-09-15	6:27 PM	Run	Default	3.21	Mile	0:34:31				163	183					Rain,Humid,PartlyCloudy	91	F																		
+2020-09-16	8:00 AM	Run	Default	2.21	Mile	0:21:26.80				169	186					Humid,PartlyCloudy	78	F																		
+2020-09-18	8:06 AM	Run	Default	2.18	Mile	0:20:30.72				174	190					Overcast,Humid	75	F																		
+2020-09-24	5:17 PM	Run	Default	3.05	Mile	0:29:00.67				176	190					Overcast,Humid	75	F																		
+2020-09-26	8:04 AM	Run	Default	3.05	Mile	0:27:37.32				178	194					Humid,PartlyCloudy	69	F																		
+2020-09-27	9:56 AM	Run	Default	3.21	Mile	0:32:00.46				177	192					Humid,PartlyCloudy	82	F																		
+2020-09-29	8:02 AM	Run	Default	2.16	Mile	0:20:01.01				174	192					PartlyCloudy	59	F																		
+2020-10-02	7:25 AM	Run	Default	2.22	Mile	0:20:15.52				177	188					PartlyCloudy	61	F																		
+2020-10-05	8:11 AM	Run	Default	2.18	Mile	0:20:30.77				170	184					PartlyCloudy	67	F																		
+2020-10-08	8:24 AM	Run	Default	4.01	Mile	0:37:36.29				177	195					Humid,PartlyCloudy	75	F																		
+2020-10-10	8:22 AM	Run	Default	3.04	Mile	0:28:01.18				175	191					Humid,PartlyCloudy	68	F																		
+2020-10-13	6:25 PM	Run	Default	3.04	Mile	0:28:01.13				183	197					Humid,PartlyCloudy	84	F																		
+2020-10-16	5:27 PM	Run	Default	3.06	Mile	0:27:53.80				180	192					Overcast	63	F																		
+2020-10-17	5:56 PM	Run	Default	3.01	Mile	0:26:24.94				176	193					Overcast,Humid	77	F																		
+2020-10-20	6:03 PM	Run	Default	3.14	Mile	0:29:01.39										Overcast,Humid	81	F																		
+2020-10-22	8:06 AM	Run	Default	2.30	Mile	0:22:00.55				174	191					Overcast,Humid	74	F																		
+2020-10-25	5:14 PM	Run	Default	4.04	Mile	0:38:01.77				181	194					Overcast,Humid	76	F																		
+2020-10-27	5:35 PM	Run	Default	3.06	Mile	0:35:52.35										Overcast,Rain	68	F																		
+2020-10-29	5:37 PM	Run	Default	2.30	Mile	0:21:30.66										PartlyCloudy	60	F																		
+2020-11-06	10:39 AM	Run	Default	3.56	Mile	0:32:29.30										PartlyCloudy	70	F																		
+2020-11-13	9:27 AM	Run	Default	6.12	Mile	1:01:10.30										Overcast,Humid	73	F																		
+2020-11-17	8:06 AM	Run	Default	3.00	Mile	0:27:12.40										Sunny	51	F																		
+2020-11-18	4:10 PM	Run	Default	2.20	Mile	0:20:00.53				172	191					Sunny	73	F																		
+2020-11-19	7:07 AM	Run	Default	3.05	Mile	0:27:00.49										PartlyCloudy	60	F																		
+2020-11-20	7:41 AM	Run	Default	2.16	Mile	0:20:12.13										Overcast,Humid	67	F																		
+2020-11-22	8:46 AM	Run	Default	4.17	Mile	0:37:33.09										Overcast	51	F																		
+2020-11-24	9:15 AM	Run	Default	4.13	Mile	0:37:00.71										PartlyCloudy	44	F																		
+2020-11-26	8:32 AM	Run	Default	6.45	Mile	1:00:00.10										Overcast	59	F																		
+2020-12-04	7:17 AM	Run	Default	3.06	Mile	0:28:00.70										Overcast,Rain	43	F																		
+2020-12-11	10:05 AM	Run	Default	4.17	Mile	0:37:31.18										PartlyCloudy	49	F																		
+2020-12-23	11:38 AM	Run	Default	4.01	Mile	0:37:00.15										Overcast	46	F																		
+2021-01-01	11:00 AM	Run	Default	3.06	Mile	0:27:32.14										PartlyCloudy	46	F																		
+2021-01-04	7:55 AM	Run	Default	2.13	Mile	0:20:00.15										PartlyCloudy	50	F																		
+2021-01-05	5:04 PM	Run	Default	3.13	Mile	0:28:05.13										PartlyCloudy	65	F																		
+2021-01-09	8:51 AM	Run	Default	2.16	Mile	0:19:30.10										PartlyCloudy	39	F																		
+2021-01-12	5:20 PM	Run	Default	3.22	Mile	0:30:00.21										Overcast	50	F																		
+2021-01-13	4:54 PM	Run	Default	3.10	Mile	0:28:00.52										Sunny	57	F																		
+2021-01-23	8:24 AM	Run	Default	3.02	Mile	0:27:30.63										Overcast	59	F																		
+2021-01-24	11:38 AM	Run	Default	3.20	Mile	0:28:30.53										Overcast,Humid	72	F																		
+2021-01-26	6:10 PM	Run	Default	3.00	Mile	0:33:27.39										Overcast	70	F																		
+2021-01-31	10:29 AM	Run	Default	2.13	Mile	0:22:22.27										Overcast	46	F																		
+2021-02-06	7:52 AM	Run	Default	5.02	Mile	0:45:00.64										Overcast	50	F																		
+2021-02-06	8:39 AM	Run	Default	0.24	Mile	0:2:44.78										Overcast	51	F																		
+2021-02-09	5:23 PM	Run	Default	3.11	Mile	0:29:17.15										Overcast	69	F																		
+2021-02-23	5:50 PM	Run	Default	3.15	Mile	0:30:55.93										Sunny,Rain	71	F																		
