@@ -25,13 +25,13 @@
     -->
     {{recipe}}
     {{priorities}}
-    <form class="row g-3" action = step_4 method = post>
+    <h3> What is your third priority? </h3>
+    <form class="row g-3" action = step_5 method = post>
   <div class="col-md-4">
         <select class="form-select" aria-label="Default select example" name = pref_3>
-       <option selected>What is your third priority?</option>
-        <option value= {{options[0]}}>{{options[0]}}</option>
-        <option value= {{options[1]}}>{{options[1]}}</option>
-        <option value= {{options[2]}}>{{options[2]}}</option>
+        <option value= "{{options[0]}}">{{options[0]}}</option>
+        <option value= "{{options[1]}}">{{options[1]}}</option>
+        <option value= "{{options[2]}}">{{options[2]}}</option>
         </select>
   </div>
   <div class="col-12">

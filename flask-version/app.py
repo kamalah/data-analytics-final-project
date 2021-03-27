@@ -6,6 +6,8 @@ Created on Wed Mar 24 20:41:14 2021
 """
 
 from flask import Flask, render_template, request
+import pandas as pd
+import recipe_finder as rf
 
 app = Flask(__name__)
 options = ["Number of Steps", "Number of Ingredients", "Ratings", "Exoticness of Ingredients", "Time to Prepare"]
@@ -20,6 +22,7 @@ def index():
 @app.route('/step_2', methods = ['GET','POST'])
 def step_2():
     if request.method == 'POST':
+        global recipe
         recipe = request.form['recipe']
         return render_template("step_2.html", recipe = recipe, options = options)
 
@@ -42,8 +45,8 @@ def step_4():
 def step_5():
     if request.method == 'POST':
         priorities.append(request.form['pref_3'])
-        list_options = list(set(options) - set(priorities))
-        return render_template("step_5.html", recipe = recipe, options = list_options, priorities = priorities)
+        top_5_recipes = rf.get_top_5(recipe, priorities)
+        return render_template("step_5.html", recipe = recipe, priorities = priorities)
 
     
 if __name__ == '__main__':

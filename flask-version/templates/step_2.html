@@ -24,16 +24,18 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
     -->
     <h2> Let's find you a <b>{{recipe}} </b> recipe </h2>
+    <h3> What is your first priority? </h3>
     <form class="row g-3" action = step_3 method = post>
   <div class="col-md-4">
+  
         <select class="form-select" aria-label="Default select example" name = pref_1>
-        <option selected>What is your first priority?</option>
-        <option value= {{options[0]}}>{{options[0]}}</option>
-        <option value= {{options[1]}}>{{options[1]}}</option>
-        <option value= {{options[2]}}>{{options[2]}}</option>
-        <option value= {{options[3]}}>{{options[3]}}</option>
-        <option value= {{options[4]}}>{{options[4]}}</option>
-        </select>
+        <option value= "{{options[0]}}">{{options[0]}}</option>
+        <option value= "{{options[1]}}">{{options[1]}}</option>
+        <option value= "{{options[2]}}">{{options[2]}}</option>
+        <option value= "{{options[3]}}">{{options[3]}}</option>
+        <option value= "{{options[4]}}">{{options[4]}}</option>
+        </select> 
+      
   </div>
   <div class="col-12">
     <button class="btn btn-primary" type="submit">next</button>
