@@ -1,4 +1,6 @@
-data/large_data/
+# Project-specific dataset exclusions
+data/large_data/*
+!data/large_data/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
